@@ -5,4 +5,4 @@ QQ群：361917044
 
 [Github](https://github.com/tower1229/frontend-weekly)
 
-[在线阅读]()
+[在线阅读](https://tower1229.gitbooks.io/frontend-weekly/)
