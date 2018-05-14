@@ -1,4 +1,5 @@
 # frontend-weekly
+
 > 前端周刊，给前端同学准备的每周1小时阅读清单
 
 ## 关于
@@ -7,7 +8,7 @@
 
 ## 社区
 
-[前端博客](http://refined-x.com)
+[前端博客](https://refined-x.com/)
 
 QQ群：361917044
 
@@ -24,3 +25,4 @@ QQ群：361917044
 ## 在线阅读
 
 [frontend-weekly](https://frontend-weekly.com/)
+
