@@ -23,4 +23,4 @@ QQ群：361917044
 
 ## 在线阅读
 
-[frontend-weekly](https://tower1229.gitbooks.io/frontend-weekly/)
+[frontend-weekly](https://frontend-weekly.com/)
