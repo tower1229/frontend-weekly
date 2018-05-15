@@ -1,5 +1,5 @@
 {
-    "plugin": ["3-ba", "github-edit"],
+    "plugins": ["3-ba", "github-edit"],
     "pluginsConfig": {
         "3-ba": {
             "token": "2de20984d875f33eca1256139bdead79"
