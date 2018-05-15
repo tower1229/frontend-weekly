@@ -1,12 +1,27 @@
 {
-    "plugins": ["3-ba", "github-edit"],
-    "pluginsConfig": {
-        "3-ba": {
-            "token": "2de20984d875f33eca1256139bdead79"
+	"title": "前端周刊",
+	"language": "zh",
+	"description": "前端周刊，给前端同学准备的每周1小时阅读清单",
+	"links": {
+		"gitbook": false,
+		"sidebar": {
+            "前端路上": "https://refined-x.com"
         },
-        "github-edit": {
-            "repo": "tower1229/frontend-weekly",
-            "branch": "master"
-        }
-    }
+		"sharing": {
+			"google": false,
+			"facebook": false,
+			"twitter": false,
+			"all": false
+		}
+	},
+	"plugins": ["3-ba", "github-edit"],
+	"pluginsConfig": {
+		"3-ba": {
+			"token": "2de20984d875f33eca1256139bdead79"
+		},
+		"github-edit": {
+			"repo": "tower1229/frontend-weekly",
+			"branch": "master"
+		}
+	}
 }
