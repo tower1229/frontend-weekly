@@ -3,7 +3,6 @@
 	"language": "zh",
 	"description": "前端周刊，给前端同学准备的每周1小时阅读清单",
 	"author": "tower1229@foxmail.com",
-	"gitbook": "2.6.7",
 	"links": {
 		"gitbook": false,
 		"sidebar": {
