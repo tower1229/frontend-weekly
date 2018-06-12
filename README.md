@@ -25,12 +25,3 @@ QQ群：361917044
 ## 在线阅读
 
 [frontend-weekly](https://frontend-weekly.com/)
-
-
-
-域名使用七牛云加速，如果访问遇到问题，请尝试访问源站：https://tower1229.gitbooks.io/frontend-weekly/
-
-
-
-
-
