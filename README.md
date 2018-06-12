@@ -14,7 +14,7 @@ QQ群：361917044
 
 ## 参与
 
-本书基于[gitbook](https://help.gitbook.com/)构建，内容托管在[Github](https://github.com/tower1229/frontend-weekly)，可以通过向该仓库提交Pull request的方式参与投稿。
+本书基于[gitbook-cli](https://help.gitbook.com/)本地构建，所有内容托管在[Github](https://github.com/tower1229/frontend-weekly)，可以通过向该仓库提交Pull request的方式参与投稿，`/docs`是构建后内容，请勿修改。
 
 ### 投稿规则：
 
