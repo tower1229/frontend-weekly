@@ -32,7 +32,7 @@
 
 #### 公众号： programmerslife
 
-> 程序员也有生活，这里除了技术什么都有！面经、理财、投资、好物、羊毛、生活琐事，无所不包
+> 程序员们的生活，面经、理财、投资、好物、羊毛、生活琐事，无所不包
 
 ![programmerslife](https://refined-x.com/asset/wechat.jpg)
 
