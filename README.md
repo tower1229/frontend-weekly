@@ -2,6 +2,8 @@
 
 > 前端周刊，给前端同学准备的每周1小时阅读清单
 
+[![Build Status](https://www.travis-ci.org/tower1229/frontend-weekly.svg?branch=master)](https://www.travis-ci.org/tower1229/frontend-weekly)
+
 ## 关于周刊
 
 每个人的关注点都是片面的、受局限的，frontend-weekly希望汇集更多视角，创造一个更全面的前端学习资料库，并以此让每位参与者受益。
