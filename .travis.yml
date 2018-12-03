@@ -12,6 +12,7 @@ cache:
 # S: Build Lifecycle
 install:
   - npm install
+  - gitbook install
 
 before_script:
 
