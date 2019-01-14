@@ -3,13 +3,18 @@
   "version": "0.0.1",
   "author": "tower1229@foxmail.com",
   "description": "前端周刊，给前端同学准备的每周1小时阅读清单",
-  "keywords":["frontend","weekly"],
+  "keywords": [
+    "frontend",
+    "weekly"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tower1229/frontend-weekly"
   },
-  "license":"MIT",
-  "engines": {"node": "8.10.x"},
+  "license": "MIT",
+  "engines": {
+    "node": "8.10.x"
+  },
   "scripts": {
     "build": "gitbook build ./ ./docs"
   },
