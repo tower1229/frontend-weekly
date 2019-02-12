@@ -34,12 +34,12 @@
 
 #### 公众号： programmerslife
 
-> 程序员们的生活，面经、理财、投资、好物、羊毛、生活琐事，无所不包
+> 一个程序员的技术、认知、生活、购物、理财相关集散地
 
 ![programmerslife](https://refined-x.com/asset/wechat.jpg)
 
 #### 知识星球：前端路上
 
-> 付费咨询服务
+> 一年期付费咨询服务
 
 ![code-xiaomiquan](https://refined-x.com/asset/code-xiaomiquan.png)
