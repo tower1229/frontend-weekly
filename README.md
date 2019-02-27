@@ -22,6 +22,8 @@
 
 [frontend-weekly](https://frontend-weekly.com/)
 
+**阅读英文文档有困难？推荐你使用[上网工具](https://secure.shadowsocks.ch/aff.php?aff=19825)**
+
 ## 前端社区
 
 #### [前端博客](https://refined-x.com/)
