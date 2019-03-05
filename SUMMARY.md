@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
+* [主页](README.md)
+* [英文文档阅读套装](shadowsocks.md)
 * 2019年
   * [2019-03-04](2019/2019-03-04.md)
   * [2019-02-25](2019/2019-02-25.md)
