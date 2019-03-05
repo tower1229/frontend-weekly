@@ -22,11 +22,11 @@
 
 [frontend-weekly](https://frontend-weekly.com/)
 
-**阅读英文文档有困难？推荐你使用[上网工具](https://secure.shadowsocks.ch/aff.php?aff=19825)**
+**阅读英文文档有困难？推荐你使用[《英文文档阅读套装》](/shadowsocks.html)**
 
 ## 前端社区
 
-#### [前端博客](https://refined-x.com/)
+#### [前端路上](https://refined-x.com/)
 
 > 原创前端技术博客，致力于分享前端学习路上的第一手资料，专注web开发、移动端开发、混合应用开发、前端自动化、前端工程化，Nodejs开发。
 
