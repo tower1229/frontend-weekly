@@ -22,7 +22,7 @@
 
 [frontend-weekly](https://frontend-weekly.com/)
 
-**阅读英文文档有困难？推荐你使用[《英文文档阅读套装》](/shadowsocks.html)**
+**阅读英文文档有困难？推荐你使用[《英文文档阅读套装》](/tools.html)**
 
 ## 前端社区
 
