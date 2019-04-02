@@ -12,14 +12,10 @@
 			"all": false
 		}
 	},
-	"plugins": ["baidu-wis"],
+	"plugins": ["push-bd", "github"],
 	"pluginsConfig": {
-		"baidu-wis": {
-			"token": "2de20984d875f33eca1256139bdead79"
-		},
-		"github-edit": {
-			"repo": "tower1229/frontend-weekly",
-			"branch": "master"
+		"github": {
+			"url": "https://github.com/tower1229/frontend-weekly"
 		}
 	}
 }
