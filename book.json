@@ -12,7 +12,7 @@
 			"all": false
 		}
 	},
-	"plugins": ["baiduana", "push-bd", "github"],
+	"plugins": ["baidu-v3", "push-bd", "github"],
 	"pluginsConfig": {
 		"baidu": {
             "token": "2de20984d875f33eca1256139bdead79"
