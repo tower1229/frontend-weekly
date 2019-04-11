@@ -2,7 +2,7 @@ require(["gitbook"], function(gitbook) {
 
 	gitbook.events.bind("start", function(e, pluginConfig) {
 
-        var config = pluginsConfig.baidu || {};
+        var config = pluginConfig.baidu || {};
         if (!config.token) {
             throw "Need to option 'token' for Baidu Analytics plugin";
         }
