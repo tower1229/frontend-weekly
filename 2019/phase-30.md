@@ -8,6 +8,10 @@
 
 > 这才真正明白什么是中台————编者注
 
+- [紧接着给中台化泼一盆冷水](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA)
+
+> 业务没有到那一步，硬上中台反而是资源浪费————编者注
+
 - [【译】我是一名技术总监，被技术选型给埋坑里了](https://www.infoq.cn/article/r9jZjsB8JYAB5*X7aogH)
 
 > 入门级的技术选型思路
@@ -24,8 +28,17 @@
 
 > :not伪类是目前唯一一个可以大规模放心使用的逻辑伪类，非常有用，优点也很突出，大家可以多用用
 
+
 ## 行业周边
 
 - [令人心寒的不是GitHub突然断供 而是 CEO 对此表示无能为力](https://www.cnbeta.com/articles/tech/872905.htm)
 
 > GitHub竟然也会断供，吓得我赶紧把代码在[开源中国](https://gitee.com/enterprises?invite_code=flxe)备份了一遍————编者注
+
+- [dogedoge——国产搜索引擎干净无广告更纯粹](https://www.dogedoge.com/)
+
+> 更好的百度/谷歌替代品
+
+- [支付宝开启花呗出账日与对应还款日调整预约](https://www.cnbeta.com/articles/tech/873069.htm)
+
+> 当前花呗是1号出帐，10号还款。预约之后，可以选择5号出帐，15号还款；或者10号出帐，20号还款。
