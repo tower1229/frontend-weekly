@@ -1,6 +1,6 @@
 # Summary
 
-* [主页](README.md)
+* [前端周刊](README.md)
 * [《英文文档阅读套装》](tools.md)
 * [《0元建站方案》](program.md)
 * 2019年
