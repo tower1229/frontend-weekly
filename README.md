@@ -10,7 +10,7 @@
 
 ## 参与维护
 
-本书基于[gitbook-cli](https://help.gitbook.com/)本地构建，所有内容托管在[Github](https://github.com/tower1229/frontend-weekly)，可以通过向该仓库提交issue的方式参与投稿，。
+本书基于[gitbook-cli](https://help.gitbook.com/)本地构建，所有内容托管在[Github](https://github.com/tower1229/frontend-weekly)，可以通过向该仓库提交issue的方式参与投稿。
 
 ## 在线阅读
 

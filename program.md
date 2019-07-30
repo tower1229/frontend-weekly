@@ -33,7 +33,7 @@
 - 测试接口。自己写一个json文件丢到空间上就能访问，关键时刻特别方便；
 - 测试下载。同样的道理，有时候开发下载相关功能，直接将一个文件丢上去就能获得一个可下载文件地址，而且还能自定义文件MIME；
 
-以上是我几乎天天都用的功能，即使不建站，也建议每个开发者都去[申请一个](https://portal.qiniu.com/signup?code=3ljfu83u7zu4y)。
+以上是我几乎天天都用的功能，即使不建站，也建议每个开发者都去[申请一个](https://portal.qiniu.com/signup?code=1hfwb75ib2jbm)。
 
 ![七牛云存储控制台](img/program/qiniu-cun.png)
 
@@ -55,7 +55,7 @@ CDN加速的除了给原站加速，另一个重要作用是提升站点的服�
 
 除了七牛，好像还从没有其他云计算服务商提供免费CDN的。这个福利我印象中已经持续了至少三年，可以说是程序员专属福利了，个人博客或小项目每月10G的下行流量完全够用。
 
-如果你有一个已备案的域名，再去领一个[免费CDN加速](https://portal.qiniu.com/signup?code=3ljfu83u7zu4y)，那就完美了。
+如果你有一个已备案的域名，再去领一个[免费CDN加速](https://portal.qiniu.com/signup?code=1hfwb75ib2jbm)，那就完美了。
 
 ### 免费SSL证书
 
@@ -65,7 +65,7 @@ SSL证书是实现加密传输的关键，现在免费的SSL证书倒是很容�
 
 ![七牛SSL](img/program/qiniu-ssl.png)
 
-立刻去申请[免费SSL](https://portal.qiniu.com/signup?code=3ljfu83u7zu4y)证书吧。
+立刻去申请[免费SSL](https://portal.qiniu.com/signup?code=1hfwb75ib2jbm)证书吧。
 
 ## 我没有域名怎么办
 
