@@ -43,6 +43,10 @@
 
 ## 行业周边
 
+- [阿里突发性能t5云服务器，538.87￥/3年](https://www.aliyun.com/acts/limit-buy?spm=5176.11533457.1089570.4.15da77e3vH7SUR&userCode=y31qmczl)
+
+> 目前全网最低价，活动限时一个月，是时候有一台自己的服务器了 
+
 - [微信电脑版终于支持小程序 新版PC版微信实测](https://www.cnbeta.com/articles/tech/878673.htm)
 
 > 此次PC版微信的升级版本为2.7.0，目前仍处于测试版阶段。
