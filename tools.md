@@ -41,7 +41,7 @@
 - 对于前端开发者来说，用上实时更新的Chrome可能是一件带有图腾意义的事
 - 一定还有很多你想补充的
 
-你知道我们需要什么，[**点这里，自己去拿**](https://order.shadowsocks.se/aff.php?aff=19825)。
+你知道我们需要什么，[**点这里，自己去拿**](https://order.shadowsocks.website/aff.php?aff=19825)。
 
 个人使用【入门版】就可以，速度那叫一个稳。
 
@@ -55,7 +55,7 @@
 
 ![tools-3](img/tools-3.png)
 
-免费工具找来找去，最终浪费的是自己的时间，[**不如花点小钱享受稳定的服务。**](https://order.shadowsocks.se/aff.php?aff=19825)
+免费工具找来找去，最终浪费的是自己的时间，[**不如花点小钱享受稳定的服务。**](https://order.shadowsocks.website/aff.php?aff=19825)
 
 ## 最后
 
