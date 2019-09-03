@@ -30,6 +30,10 @@
 
 ## 行业周边
 
+- [阿里云九月特惠-新用户二折！](https://www.aliyun.com/acts/limit-buy?userCode=y31qmczl)
+
+> 希望九月上云的用户可以上车了
+
 - [微软全新 Chrome 内核 Edge 浏览器！替代 IE / 原生支持安装 Chrome 插件扩展](https://www.iplaysoft.com/microsoft-edge.html)
 
 > 真心希望Edge能抢下一块市场份额，不要再让浏览器市场出现独裁者
