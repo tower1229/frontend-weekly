@@ -1,6 +1,6 @@
 # 前端周刊：2019-35期
 
-[![](/img/bing/20190903.png)](https://cn.bing.com/search?q=欧亚红松鼠)
+[![](/img/bing/20190903.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=欧亚红松鼠)
 
 ## 前端开发
 

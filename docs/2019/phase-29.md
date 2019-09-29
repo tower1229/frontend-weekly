@@ -1,6 +1,6 @@
 # 前端周刊：2019-29期
 
-[![](/img/bing/20190726.png)](https://cn.bing.com/search?q=%E9%BA%8B%E9%B9%BF%E7%80%91%E5%B8%83%E5%90%8A%E6%A1%A5)
+[![](/img/bing/20190726.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=%E9%BA%8B%E9%B9%BF%E7%80%91%E5%B8%83%E5%90%8A%E6%A1%A5)
 
 ## 前端开发
 
