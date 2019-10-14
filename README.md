@@ -33,9 +33,3 @@
 > 一个程序员的技术、认知、生活、购物、理财相关集散地
 
 ![programmerslife](https://refined-x.com/asset/wechat.jpg)
-
-#### 知识星球：前端路上
-
-> 一年期付费咨询服务
-
-![code-xiaomiquan](https://refined-x.com/asset/code-xiaomiquan.png)
