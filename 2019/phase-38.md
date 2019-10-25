@@ -1,6 +1,6 @@
 # 前端周刊：2019-38期
 
-[![](/img/bing/20190926.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=美洲山杨)
+[![](/img/bing/20190926.png?imageMogr2/thumbnail/!960x)](https://cn.bing.com/search?q=美洲山杨)
 
 ```
  预祝大家国庆节快乐！
