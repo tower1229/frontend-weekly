@@ -1,6 +1,6 @@
 # 前端周刊：2019-41期
 
-[![](/img/bing/20191022.png?imageMogr2/thumbnail/!960x)](https://cn.bing.com/search?q=乌鸫)
+[![](/img/bing/20191022.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=乌鸫)
 
 ## 前端开发
 

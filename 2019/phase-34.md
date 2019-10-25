@@ -1,6 +1,6 @@
 # 前端周刊：2019-34期
 
-[![](/img/bing/20190828.png?imageMogr2/thumbnail/!960x)](https://cn.bing.com/search?q=科尼西宫的花园)
+[![](/img/bing/20190828.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=科尼西宫的花园)
 
 ## 前端开发
 
