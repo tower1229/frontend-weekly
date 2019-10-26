@@ -4,6 +4,7 @@
 * [《前端博客》](https://refined-x.com/)
 * [《英文文档阅读套装》](tools.md)
 * [《0元建站方案》](program.md)
+* [ALL IN CLoud 低至1折！](https://www.aliyun.com/1111/2019/home?userCode=y31qmczl)
 * 2019年
   * [第40期](2019/phase-40.md)
   * [第39期](2019/phase-39.md)
