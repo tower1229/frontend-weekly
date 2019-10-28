@@ -26,7 +26,7 @@
 
 ## 行业周边
 
-- [阿里云双十一 1核2G服务器 **86/年**！](https://www.aliyun.com/1111/2019/group-buying-share?ptCode=9D298960E551E698B37AE7BB83BCB271647C88CF896EF535&userCode=y31qmczl&share_source=copy_link)
+- [阿里云双十一 1核2G服务器 **86/年!**](https://www.aliyun.com/1111/2019/group-buying-share?ptCode=9D298960E551E698B37AE7BB83BCB271647C88CF896EF535&userCode=y31qmczl&share_source=copy_link)
 
 > 云服务器86元/年，双11冰点底价，错过再等1年，阿里云新用户专享
 
@@ -46,4 +46,7 @@
 
 > 在本篇中，依次展示了在配送交付场景下的三次模型策略迭代过程，以及在较为苛刻性能要求限制下，如何用轻量化的方案不断提高召回率及效果。
 
+- [没人买得起孙正义：阿里和买方市场都装不下他的梦想](https://www.cnbeta.com/articles/tech/904133.htm)
+
+> 互联网公司估值有多少泡沫？
 
