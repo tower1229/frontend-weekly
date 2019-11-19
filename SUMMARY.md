@@ -6,6 +6,7 @@
 * [《0元建站方案》](program.md)
 * [《ALL IN CLoud 低至1折》](https://www.aliyun.com/1111/2019/home?userCode=y31qmczl)
 * 2019年
+  * [第44期](2019/phase-44.md)
   * [第43期](2019/phase-43.md)
   * [第42期](2019/phase-42.md)
   * [第41期](2019/phase-41.md)
