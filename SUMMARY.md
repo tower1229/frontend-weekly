@@ -6,6 +6,7 @@
 * [《0元建站方案》](program.md)
 * [《企业级云服务器 1折特惠》](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=y31qmczl)
 * 2020年
+  * [第7期](2020/phase-7.md)
   * [第6期](2020/phase-6.md)
   * [第5期](2020/phase-5.md)
   * [第4期](2020/phase-4.md)
