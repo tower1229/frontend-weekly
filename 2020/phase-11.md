@@ -1,4 +1,4 @@
-# 前端周刊：2020-10期
+# 前端周刊：2020-11期
 
 [![](/img/bing/20200612.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=圣埃伦娜峡谷)
 
@@ -15,7 +15,7 @@
 
 - [神秘的阿里前端 P8 Offer 如何拿下](https://juejin.im/post/5ededa0ae51d457847716825)
 
-> 对P8来说面经已经没有太大意义了。
+> 面经对P8来说已经没有太大意义了。
 
 - [Web 端如何低成本打造 Native 体验？](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247496717&idx=1&sn=332a16aea0dbc36691042a79f2b45c9b)
 
@@ -28,6 +28,10 @@
 - [JS的尴尬之计算不精确问题](https://mp.weixin.qq.com/s?__biz=MzU5MjczNTg2MQ==&mid=2247485487&idx=1&sn=16ad83597b18c6a3f49cf8946f3698a6)
 
 > 以前一直不明白，为啥一遇到小数就算不准？
+
+- [职场牛人的基本功 - 拆解分析能力](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649869787&idx=1&sn=b0a9f2cd35c3832438fe3316331811d9)
+
+> 以前提过很多次的一个观点，分析别人的产品，多看看别人优点，不要总盯着缺点。
 
 
 ## 行业周边
