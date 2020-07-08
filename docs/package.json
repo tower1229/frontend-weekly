@@ -13,15 +13,22 @@
   },
   "license": "MIT",
   "engines": {
-    "node": "8.10.x"
+    "node": "12.18.x"
   },
   "scripts": {
-    "build": "gitbook build ./ ./docs"
+    "build": "gitbook build ./ ./docs",
+    "install": "gitbook install"
   },
   "dependencies": {
+    "cryptiles": ">=4.1.3",
     "gitbook-cli": "^2.3.2",
-    "lodash": ">=4.17.13",
-    "cryptiles": ">=4.1.2",
-    "hoek": ">=4.2.1"
+    "gitbook-plugin-baidu-v3": "0.0.3",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-push-bd": "^1.0.2",
+    "hoek": ">=6.1.3",
+    "lodash": ">=4.17.15"
+  },
+  "devDependencies": {
+    "minimist": ">=0.2.1"
   }
 }
