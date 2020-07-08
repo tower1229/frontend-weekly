@@ -7,6 +7,7 @@
 * [《企业级云服务器 1折特惠》](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=y31qmczl)
 
 * 2020年
+  * [第12期](2020/phase-12.md)
   * [第11期](2020/phase-11.md)
   * [第10期](2020/phase-10.md)
   * [第9期](2020/phase-9.md)
