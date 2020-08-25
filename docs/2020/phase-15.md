@@ -1,6 +1,6 @@
 # 前端周刊：2020-15期
 
-[![](/img/bing/20200804.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=白尾母鹿)
+[![](/img/bing/20200825.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=冰岛高地)
 
 ## 前端开发
 
