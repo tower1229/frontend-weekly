@@ -4,6 +4,14 @@
 
 ## 前端开发
 
+- [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+
+> 建议通读
+
+- [各公司前端技术栈选型](https://www.yuque.com/zaotalk/team/st#6edd)
+
+> 各公司前端技术栈选型
+
 ## 行业周边
 
 - [【七牛云】- 国内领先的企业级云服务商](https://marketing.qiniu.com/cps/redirect?redirect_id=4&cps_key=1hfwb75ib2jbm)

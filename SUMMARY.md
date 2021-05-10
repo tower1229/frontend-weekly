@@ -4,7 +4,7 @@
 * [《前端博客》](https://refined-x.com/)
 * [《英文文档阅读套装》](tools.md)
 * [《0元建站方案》](program.md)
-* [《企业级云服务器 1折特惠》](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=y31qmczl)
+* [《企业级云服务器 1折特惠》](https://www.aliyun.com/activity/daily/bestoffer?userCode=y31qmczl)
 
 * 2021年
   * [第4期](2021/phase-4.md)
