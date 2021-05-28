@@ -1,6 +1,6 @@
 # 前端周刊：2021-5期
 
-[![](/img/bing/20210326.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=摇篮山-圣克莱尔湖国家公园)
+[![](/img/bing/20210528.jpg?imageMogr2/thumbnail/960x)]()
 
 ## 前端开发
 
@@ -32,6 +32,38 @@
 
 > 前端新人应该珍惜小胡子哥这种优质学习资源，因为他成长的过程愿意主动分享出来，当他长成到一定阶段后，就不会有这个闲心了
 
+- [输出jquery版本号](https://www.cnblogs.com/fullstack-yang/p/6101650.html)
+
+> 如题
+
+- [新时代布局中一些有意思的特性](https://www.cnblogs.com/coco1s/p/14679847.html)
+
+> 之前需要费功夫解决的问题，很多都能一行代码搞定了
+
+- [CSS @property，让不可能变可能](https://www.cnblogs.com/coco1s/p/14661268.html)
+
+> CSS动画能力越来越强大了
+
+- [@babel/plugin-transform-runtime 到底是什么？](https://www.cnblogs.com/zhishaofei/p/13896056.html)
+
+> 内容对得起“到底”俩个字
+
+- [从后端接口下载文件的2种方式](https://www.cnblogs.com/zhishaofei/p/14192807.html)
+
+> 文件流的下载方式用的比较少，容易忘，记录一下
+
+- [FFmpeg cheat sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
+
+> FFmpeg常用操作备忘
+
+- [Flutter开发IOS，上架AppStore的全部流程以及常遇到的坑](https://blog.csdn.net/qq_38774121/article/details/114916292)
+
+> 备忘
+
+- [WebGL绘图基本原理](https://mp.weixin.qq.com/s/TKVpJTRU1v-qP-BZ5EPWNA)
+
+> WebGL对很多同学来说就是实现3D场景的，其实对2D绘图来说，也有很大的发挥场景。
+
 ## 行业周边
 
 - [【七牛云】- 国内领先的企业级云服务商](https://marketing.qiniu.com/cps/redirect?redirect_id=4&cps_key=1hfwb75ib2jbm)
@@ -45,6 +77,10 @@
 - [【腾讯云】2021新春采购节，爆款产品特惠，助力企业上云](https://curl.qcloud.com/6TLg1x6p)
 
 > 【腾讯云】2021新春采购节，爆款产品特惠，助力企业上云
+
+- [微软将在2022年6月15日彻底结束Internet Explorer浏览器的使命](https://www.cnbeta.com/articles/tech/1130065.htm)
+
+> 历史的车轮
 
 ## 加群交流
 
