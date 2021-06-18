@@ -40,6 +40,10 @@
 
 > 一套完整的学习手册帮助自己准备 Google 的面试
 
+- [2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7/?spm=frontend-weekly.com)
+
+> rt
+
 ## 行业周边
 
 - [【七牛云】- 国内领先的企业级云服务商](https://marketing.qiniu.com/cps/redirect?redirect_id=4&cps_key=1hfwb75ib2jbm)
