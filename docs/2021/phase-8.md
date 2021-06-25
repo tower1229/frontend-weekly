@@ -1,6 +1,6 @@
 # 前端周刊：2021-8期
 
-[![](/img/bing/20210625.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=皮拉沙丘)
+[![](/img/bing/20210625.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=皇辉蜂鸟)
 
 ## 前端开发
 
@@ -17,7 +17,6 @@
 - [【腾讯云】2021新春采购节，爆款产品特惠，助力企业上云](https://curl.qcloud.com/6TLg1x6p)
 
 > 【腾讯云】2021新春采购节，爆款产品特惠，助力企业上云
-
 
 ## 加群交流
 

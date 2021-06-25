@@ -1,6 +1,6 @@
 # 前端周刊：2021-7期
 
-[![](/img/bing/20210625.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=皮拉沙丘)
+[![](/img/bing/20210625.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=皇辉蜂鸟)
 
 ## 前端开发
 
