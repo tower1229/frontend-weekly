@@ -1,8 +1,48 @@
-# 前端周刊：2021-8期
+# 前端周刊：2021-9期
 
-[![](/img/bing/20210713.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=大提顿国家公园)
+[![](/img/bing/20210721.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=朱砂湖)
 
 ## 前端开发
+
+- [你的编程能力从什么时候开始突飞猛进？](https://www.zhihu.com/question/356351510/answer/913928066)
+
+> 真相就是这么朴实
+
+- [写给中高级前端关于性能优化的9大策略和6大指标](https://juejin.cn/post/6981673766178783262#heading-20)
+
+> 基础知识，再复习一遍吧
+
+- [让你 nodejs 水平暴增的 debugger 技巧](https://mp.weixin.qq.com/s/xHHtLrnb-FZeonkX525RVw)
+
+> mark: nodejs调试
+
+- [这16种原生函数和属性的区别，你真的知道吗？](https://juejin.cn/post/6982742095375597575)
+
+> 学到了，有些很好用。比如textContent自动过滤html标签，做富文本内容摘要可以用
+
+- [那个忙了一夜的Vue3动画很好，就是太短了](https://juejin.cn/post/6891640356543627278)
+
+> 对Vue3 Composition API有什么用最好的解释，如果看不出来有什么用，说明你用不到
+
+- [【初学笔记】整理的一些Vue3知识点]()https://juejin.cn/post/6977004323742220319
+
+> 写的挺好
+
+- [面试了十几个高级前端，竟然连（扁平数据结构转Tree）都写不出来](https://juejin.cn/post/6983904373508145189)
+
+> 看完把自己的buildTree赶紧优化了一下
+
+- [HTML Tips](https://markodenic.com/html-tips/#header)
+
+> 列举了很多实用但不常用的原生HTML能力
+
+- [CSS 巧妙的实现带圆角的三角形](https://www.cnblogs.com/coco1s/p/15009605.html)
+
+> 看着玩吧，完全没有实用价值
+
+- [写了这么多年 CSS，initial 和 inherit 以及 unset 和 revert 还傻傻分不清楚？](https://www.cnblogs.com/coco1s/p/15042881.html)
+
+> “了解 CSS 样式的 initial（默认）和 inherit（继承）以及更新的 unset 和 revert 是熟练使用 CSS 的关键”
 
 ## 行业周边
 
