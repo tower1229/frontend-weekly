@@ -4,6 +4,10 @@
 
 ## 前端开发
 
+- [为什么模仿设备变得几乎不可能【英文】](https://multilogin.com/why-mimicking-a-device-is-almost-impossible/)
+
+> 介绍了前端如何识别设备的真实性
+
 ## 行业周边
 
 - [【七牛云】- 国内领先的企业级云服务商](https://marketing.qiniu.com/cps/redirect?redirect_id=4&cps_key=1hfwb75ib2jbm)
