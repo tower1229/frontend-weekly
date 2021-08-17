@@ -24,3 +24,7 @@
 添加好友，备注“加群”
 
 ![refned_x](../img/a/refined-x.jpg)
+
+## 前端周刊
+
+更新内容请访问[《前端周刊》](https://frontend-weekly.com/)
