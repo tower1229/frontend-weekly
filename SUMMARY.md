@@ -8,6 +8,7 @@
 * [《企业级云服务器 1折特惠》](https://www.aliyun.com/activity/daily/bestoffer?userCode=y31qmczl)
 
 * 2021年
+  * [第12期](2021/phase-12.md)
   * [第11期](2021/phase-11.md)
   * [第10期](2021/phase-10.md)
   * [第9期](2021/phase-9.md)
