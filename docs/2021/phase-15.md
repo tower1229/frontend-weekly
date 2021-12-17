@@ -1,6 +1,6 @@
 # 前端周刊：2021-15期
 
-[![](/img/bing/20211203.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=Autumn)
+[![](/img/bing/20211217.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=伯恩茅斯)
 
 ## 前端开发
 
