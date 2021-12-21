@@ -19,7 +19,9 @@
 
 > 【腾讯云】云产品限时秒杀，爆款2核4G云服务器首年74元
 
+- [解决Clash端口(http + socket)变为0而且上不了网的问题](https://blog.csdn.net/m0_38072683/article/details/120949929)
 
+如果你也用Clash for window，并且用的是Windows专业版的话，很可能遇到这个问题
 
 ## 加群交流
 
