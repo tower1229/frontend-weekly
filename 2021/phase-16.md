@@ -23,6 +23,10 @@
 
 如果你也用Clash for window，并且用的是Windows专业版的话，很可能遇到这个问题
 
+- [The Movie db (TMDB)的API申请](https://www.cnblogs.com/xujiahui/p/7196090.html)
+
+> 如果你也用tinyMovieManager收集电影信息的话，可能用得上
+
 ## 加群交流
 
 添加好友，备注“加群”
