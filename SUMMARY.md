@@ -7,6 +7,8 @@
 * [《0元建站方案》](program.md)
 * [《企业级云服务器 1折特惠》](https://www.aliyun.com/activity/daily/bestoffer?userCode=y31qmczl)
 
+* 2022年
+  * [第1期](2021/phase-1.md)
 * 2021年
   * [第16期](2021/phase-16.md)
   * [第15期](2021/phase-15.md)

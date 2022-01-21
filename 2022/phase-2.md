@@ -1,9 +1,20 @@
-# 前端周刊：2021-16期
+# 前端周刊：2022-2期
 
 [![](/img/bing/20220106.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=冬日里的科赫尔湖)
 
 ## 前端开发
 
+- [利用 Promise 的 cache 特性实现前端缓存](https://zhuanlan.zhihu.com/p/30192858)
+
+> 这应该是最简单的axios请求缓存方案，对应的完整功能实现：[axios-cache](https://github.com/tower1229/axios-cache)
+
+- [密码强度检测算法](https://blog.csdn.net/u010156024/article/details/45673581)
+
+> 相对严谨的密码强度检测算法，对应的[js实现](https://github.com/jcg9487/PasswordStrengthJS)
+
+- [QGIS添加字段字段赋值](https://blog.csdn.net/sinat_41310868/article/details/105353332)
+
+> QGIS真是个好东西，比arcgis方便太多了
 
 ## 行业周边
 
