@@ -1,12 +1,20 @@
 # 前端周刊：2022-2期
 
-[![](/img/bing/20220106.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=冬日里的科赫尔湖)
+[![](/img/bing/20220128.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=短耳猫头鹰)
 
 ## 前端开发
 
 - [利用 Promise 的 cache 特性实现前端缓存](https://zhuanlan.zhihu.com/p/30192858)
 
-> 这应该是最简单的axios请求缓存方案，对应的完整功能实现：[axios-cache](https://github.com/tower1229/axios-cache)
+> 这应该是最简单的前端请求缓存实现思路
+
+- [**项目推荐：@tower1229/axios**](https://github.com/tower1229/axios-cache)
+
+> Axios的升级替代品，与Axios完全相同的API，仅仅为Instance.get()方法扩展缓存功能
+
+- [**项目推荐：@tower1229/vue-store**](https://github.com/tower1229/vue-store)
+
+> 更简单的vue状态管理插件，如果你也觉得vuex有点复杂，那么你需要这个
 
 - [密码强度检测算法](https://blog.csdn.net/u010156024/article/details/45673581)
 
@@ -14,7 +22,23 @@
 
 - [QGIS添加字段字段赋值](https://blog.csdn.net/sinat_41310868/article/details/105353332)
 
-> QGIS真是个好东西，比arcgis方便太多了
+> QGIS是个好东西，比Arcgis轻便很多，常用功能也都有
+
+- [Git 通过submodule添加子项目/库(git仓库嵌套)](https://blog.csdn.net/JackLiu16/article/details/80468694)
+
+> Git仓库嵌套真是个神奇的功能，特定情况下非常实用
+
+- [UI自动化测试神器->Cypress](https://www.jianshu.com/p/55ed1d40f40f)
+
+> 有空研究一下
+
+- [Java代码获取图片格式及颜色模型](https://blog.csdn.net/yangfengjueqi/article/details/79295662)
+
+> 通过图片转16进制后图片内容特征进行识别。附：[图片转16进制的前端实现](js将本地上传的图片转换成十六进制字符串数组)
+
+- [Blender+GoogleMaps+GIS插件生成三维地形图](https://zhuanlan.zhihu.com/p/421156296)
+
+> Blender生成三维地形图
 
 ## 行业周边
 
@@ -30,6 +54,21 @@
 
 > 【腾讯云】云产品限时秒杀，爆款2核4G云服务器首年74元
 
+- [**1.6万字马斯克访谈实录：载人飞船上天前，我曾跪地祈祷**](https://chedongxi.com/p/264710.html)
+
+> 非常值得一读，我们见到的伟大，只是伟大的一角
+
+- [Paint of Persia](https://dunin.itch.io/ptop)
+
+> 这个工具让你可以在屏幕任何一个窗口，框选一部分内容，将其变成像素画。
+
+- [Emoji 搜索](https://translate.yandex.com/?lang=zh-emj&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C)
+
+> 俄罗斯搜索引擎 Yandex 推出了一个在线翻译工具。有趣的是，里面有一项"文本翻译 Emoji"，可以输入词语，得到对应的 Emoji。
+
+- [就算最后这个字库没有任何前途，我也是拥有了一套字库的男人](https://mp.weixin.qq.com/s/hZ6KeQCFzyWbQw_J1fDjug)
+
+> “事业”的本质是“业”，业力天定，也就是天命不可违
 
 ## 加群交流
 
