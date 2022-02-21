@@ -4,6 +4,13 @@
 
 ## 前端开发
 
+- [**Animater: 基于Vue的动画场景编排组件**](http://cutting-mat.refined-x.com/animater/)
+
+> 轻松实现元素进场、退场动画
+
+- [FLUTTER添加水印、添加自定义水印、禁止截屏](https://www.freesion.com/article/3034889750/)
+
+> “现实生活中，我们想要对应用的开发程序内容进行管控，避免暴露出敏感信息”
 
 ## 行业周边
 
@@ -15,10 +22,9 @@
 
 > 【阿里云】云服务器ECS年终特惠
 
-- [【腾讯云】2021双十二限时秒杀](https://cloud.tencent.com/act/cps/redirect?redirect=1077&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
+- [【腾讯云】热门云产品首单特惠秒杀](https://cloud.tencent.com/act/cps/redirect?redirect=1077&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
 
-> 【腾讯云】云产品限时秒杀，爆款2核4G云服务器首年74元
-
+> 【腾讯云】热门云产品首单特惠秒杀，1核2G云服务器首年38元
 
 ## 加群交流
 
