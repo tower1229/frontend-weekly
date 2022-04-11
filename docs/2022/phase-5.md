@@ -4,6 +4,9 @@
 
 ## 前端开发
 
+- [写给自己的代码整洁之道](https://pengfeixc.com/blogs/developer-handbook/clean-code)
+
+> 写给自己的代码整洁之道
 
 ## 行业周边
 
