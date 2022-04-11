@@ -30,7 +30,7 @@
 
 ## 行业周边
 
-- [【七牛云】2022 新春优惠季](https://s.qiniu.com/b6RNJr)
+- [【七牛云】2022 新春优惠季](https://s.qiniu.com/mIzQNn)
 
 > 【七牛云】 领 8080 元开工红包
 
