@@ -31,7 +31,7 @@
     "jsonpointer": ">=5.0.0"
   },
   "devDependencies": {
-    "minimist": ">=0.2.1",
+    "minimist": ">=1.2.6",
     "npm": ">=6.14.6",
     "bl": ">=1.2.3",
     "tunnel-agent": ">=0.6.0"
