@@ -4,6 +4,10 @@
 
 ## 前端开发
 
+- [**videojs-plugin-marker--videojs 进度条打点插件**](https://github.com/tower1229/videojs-plugin-marker)
+
+> 基于 videojs-marker-plugin 项目二次开发，支持 marker 点更新和 marker 点击事件；更换构建工具为 Vite。
+
 ## 行业周边
 
 - [【七牛云】2022 新春优惠季](https://s.qiniu.com/mIzQNn)
