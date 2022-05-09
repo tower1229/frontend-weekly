@@ -28,13 +28,13 @@
 
 > 前端开发交流群，行业交流，工作心得，技术分享，加群需注明工作地、工作经验、作品。
 
-![refned_x](../img/a/refined-x.jpg)
+<img src="https://raw.githubusercontent.com/tower1229/frontend-weekly/master/img/a/refined-x.jpg" style="max-width: 470px" />
 
 #### QQ 群：361917044
 
 > 前端开发交流群，行业交流，工作心得，技术分享，加群需注明工作地、工作经验、作品。
 
-![qq群](../img/a/qq.jpg)
+<img src="https://raw.githubusercontent.com/tower1229/frontend-weekly/master/img/a/qq.jpg" style="max-width: 470px" />
 
 #### 公众号： programmerslife
 
