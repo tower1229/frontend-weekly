@@ -1,4 +1,4 @@
-# 前端周刊：2022-11 期
+# 前端周刊：2022-12 期
 
 [![](https://frontend-weekly.com/img/bing/20220606.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=靛蓝彩鹀)
 
