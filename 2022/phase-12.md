@@ -8,6 +8,10 @@
 
 > Vue3 的官方跳板
 
+- [Vite 3 发布](https://cn.vitejs.dev/guide/migration.html)
+
+> 秉承 Vue 团队的优良传统，大版本更新但 API 变化很小
+
 - [完成第一个 vue3.2 项目后，这是我的技术总结](https://mp.weixin.qq.com/s/S2wxXtdmpFzNv3AopUlNlQ)
 
 > Vue3 的响应式变量 API 设计的挺难用
