@@ -8,6 +8,10 @@
 
 > 不查不知道，canvas 的功能原来这么完整
 
+- [Quick Reference 中文版](https://wangchujiang.com/reference/)
+
+> 开发人员速查表
+
 ## 行业周边
 
 - [【七牛云】2022 新春优惠季](https://s.qiniu.com/mIzQNn)
@@ -22,6 +26,10 @@
 
 > 【腾讯云】爆款 2 核 2G 云服务器首年 40 元，企业首购最高获赠 300 元京东卡
 
+- [AI 绘画项目](https://www.craiyon.com/)
+
+> 开源 AI 绘图引擎 DALL·E mini 改名后的样子，根据文本生成图像，免费使用。特点是速度比较快（不超过 2 分钟），效果也不错。
+
 ## 加群交流
 
 添加好友，备注“加群”
@@ -31,3 +39,5 @@
 ## 前端周刊
 
 更新内容请访问[《前端周刊》](https://frontend-weekly.com/)
+
+[鲁 ICP 备 17013688 号-2](https://beian.miit.gov.cn/)
