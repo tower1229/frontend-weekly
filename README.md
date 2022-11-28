@@ -41,3 +41,7 @@
 > 一个程序员的技术、认知、生活、购物、理财相关集散地
 
 ![programmerslife](https://refined-x.com/asset/wechat.jpg)
+
+---
+
+[鲁 ICP 备 17013688 号-2](https://beian.miit.gov.cn/)

@@ -39,5 +39,3 @@
 ## 前端周刊
 
 更新内容请访问[《前端周刊》](https://frontend-weekly.com/)
-
-[鲁 ICP 备 17013688 号-2](https://beian.miit.gov.cn/)
