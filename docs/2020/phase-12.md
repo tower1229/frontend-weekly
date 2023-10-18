@@ -1,7 +1,6 @@
-# 前端周刊：2020-12期
+# 前端周刊：2020-12 期
 
-[![](/img/bing/20200708.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=灰海豹)
-
+[![](../img/bing/20200708.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=灰海豹)
 
 ## 前端开发
 
@@ -23,27 +22,24 @@
 
 - [浏览器扩展插件开发教程](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)
 
-> MDN浏览器扩展插件开发教程
+> MDN 浏览器扩展插件开发教程
 
 ## 行业周边
 
-- [【年中618】云产品0.9折起](https://www.aliyun.com/activity/618/index?userCode=y31qmczl)
+- [【年中 618】云产品 0.9 折起](https://www.aliyun.com/activity/618/index?userCode=y31qmczl)
 
-> 新客购云产品0.9折起 最高12000元红包
+> 新客购云产品 0.9 折起 最高 12000 元红包
 
-- [【域名特惠】COM域名注册23元/年+续费5元代金券+6元个人专业版DSN套餐](https://www.dnspod.cn/promo/domainscarnival?promo_code=3LIUUR11729&source=sharelink&from=link)
+- [【域名特惠】COM 域名注册 23 元/年+续费 5 元代金券+6 元个人专业版 DSN 套餐](https://www.dnspod.cn/promo/domainscarnival?promo_code=3LIUUR11729&source=sharelink&from=link)
 
-> 国内最好的DNS服务商【DNSPod】，手里有域名的不要错过，买到就是赚到
+> 国内最好的 DNS 服务商【DNSPod】，手里有域名的不要错过，买到就是赚到
 
-- [为什么很多存在的技术和设计一旦被Apple来做就会做到前所未有的体验和热度？](https://www.zhihu.com/question/403378616/answer/1306250671?utm_source=wechat_session&utm_medium=social&utm_oi=27046294061056)
+- [为什么很多存在的技术和设计一旦被 Apple 来做就会做到前所未有的体验和热度？](https://www.zhihu.com/question/403378616/answer/1306250671?utm_source=wechat_session&utm_medium=social&utm_oi=27046294061056)
 
 > 假如你想给 iPad 设计一个鼠标的光标，你会怎么做？
-
-
 
 ## 加群交流
 
 添加好友，备注“加群”
 
 ![refned_x](../img/a/refined-x.jpg)
-

@@ -1,10 +1,10 @@
-# 前端周刊：2019-41期
+# 前端周刊：2019-41 期
 
-[![](/img/bing/20191026.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=红垂蜜鸟)
+[![](../img/bing/20191026.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=红垂蜜鸟)
 
 ## 前端开发
 
-- [灵活运用JS开发技巧](https://segmentfault.com/a/1190000020749133)
+- [灵活运用 JS 开发技巧](https://segmentfault.com/a/1190000020749133)
 
 > 挑着看看，有几个有用的
 
@@ -18,19 +18,19 @@
 
 - [ES10 功能完全指南](https://mp.weixin.qq.com/s/l9x0BPU3ylDt4G2VwUwf_A)
 
-> 原生挤占babel的生存空间
+> 原生挤占 babel 的生存空间
 
 - [HTTP3 的过去、现在和未来（英文）](https://blog.cloudflare.com/http3-the-past-present-and-future/)
 
-> HTTP3不使用 TCP 作为会话的传输层，而是使用 QUIC，一种新的互联网传输协议
+> HTTP3 不使用 TCP 作为会话的传输层，而是使用 QUIC，一种新的互联网传输协议
 
 ## 行业周边
 
-- [阿里云双十一 1核2G服务器 **86/年!**](https://www.aliyun.com/1111/2019/group-buying-share?ptCode=9D298960E551E698B37AE7BB83BCB271647C88CF896EF535&userCode=y31qmczl&share_source=copy_link)
+- [阿里云双十一 1 核 2G 服务器 **86/年!**](https://www.aliyun.com/1111/2019/group-buying-share?ptCode=9D298960E551E698B37AE7BB83BCB271647C88CF896EF535&userCode=y31qmczl&share_source=copy_link)
 
-> 云服务器86元/年，双11冰点底价，错过再等1年，阿里云新用户专享
+> 云服务器 86 元/年，双 11 冰点底价，错过再等 1 年，阿里云新用户专享
 
-- [助力产业智慧升级，云服务器首年88元起，更有千元代金券礼包免费领！](https://cloud.tencent.com/act/cps/redirect?redirect=1048&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
+- [助力产业智慧升级，云服务器首年 88 元起，更有千元代金券礼包免费领！](https://cloud.tencent.com/act/cps/redirect?redirect=1048&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
 
 > 腾讯云的双十一力度也不小
 
@@ -38,7 +38,7 @@
 
 > 脚踏实地，把握机遇，永不放弃
 
-- [安卓封闭堕落or自我救赎？谈Android 10的巨大变化](https://segmentfault.com/a/1190000020748384)
+- [安卓封闭堕落 or 自我救赎？谈 Android 10 的巨大变化](https://segmentfault.com/a/1190000020748384)
 
 > 看看就得了，不抱希望
 
@@ -49,4 +49,3 @@
 - [没人买得起孙正义：阿里和买方市场都装不下他的梦想](https://www.cnbeta.com/articles/tech/904133.htm)
 
 > 互联网公司估值有多少泡沫？
-

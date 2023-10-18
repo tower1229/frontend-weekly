@@ -1,6 +1,6 @@
-# 前端周刊：2019-50期
+# 前端周刊：2019-50 期
 
-[![](/img/bing/20191224.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=驯鹿)
+[![](../img/bing/20191224.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=驯鹿)
 
 ## 前端开发
 
@@ -10,9 +10,9 @@
 
 - [First Meaningful Paint 首次有效绘制时间](http://www.alloyteam.com/2019/12/14174/)
 
-> 新概念，更适合检验SPA的性能指标。
+> 新概念，更适合检验 SPA 的性能指标。
 
-- [Oh My God，CSS flex-basis原来有这么多细节](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/)
+- [Oh My God，CSS flex-basis 原来有这么多细节](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/)
 
 > 总体来说这是一个日常可以忽略的属性，所有这些复杂的细节设定都是为了更符合开发直觉。
 
@@ -34,18 +34,17 @@
 
 - [SpriteJS 是跨平台的高性能图形系统](https://spritejs.org/#/)
 
-> 国产图形库，看API还不错，很多小游戏类的营销项目都很需要这个，自己写吧，费劲，直接调用底层，麻烦。
-
+> 国产图形库，看 API 还不错，很多小游戏类的营销项目都很需要这个，自己写吧，费劲，直接调用底层，麻烦。
 
 ## 行业周边
 
-- [【云小站】新老客都返现+现金红包+瓜分60万奖池](https://www.aliyun.com/minisite/goods?userCode=y31qmczl)
+- [【云小站】新老客都返现+现金红包+瓜分 60 万奖池](https://www.aliyun.com/minisite/goods?userCode=y31qmczl)
 
-> 专属低价&代金券 新用户低至1折 云服务器低至89元/年
+> 专属低价&代金券 新用户低至 1 折 云服务器低至 89 元/年
 
 - [“田园诗”女主角李子柒:文化传播与商业价值通吃](https://hot.cnbeta.com/articles/movie/925143.htm)
 
-> 中国IP，咱们国家终于也有像样的文化输出了
+> 中国 IP，咱们国家终于也有像样的文化输出了
 
 - [企业微信即将杀死随缘广告](https://mp.weixin.qq.com/s?__biz=MzI2MzE2NDczMw==&mid=2649739154&idx=1&sn=16a143692f01c40d527bf72773647ef4)
 
@@ -53,21 +52,21 @@
 
 - [为什么微软 WSL 的默认终端输入体验比其他同类的应用好？](https://www.oschina.net/news/112320/why-typing-inside-wsl-terminal-better-than-every-other-app)
 
-> windows做加法做了几十年，如今承载的东西太多了，做减法又得做多少年才能有肉眼可见的成效
+> windows 做加法做了几十年，如今承载的东西太多了，做减法又得做多少年才能有肉眼可见的成效
 
 - [中保研碰撞测试汇总出炉：丰田一骑绝尘 大众表现不尽人意](https://www.cnbeta.com/articles/tech/925387.htm)
 
 > 汽车碰撞测试有国标了，说明国产汽车开始有一点信心了，可以开始同台竞技了。
 
-- [为什么软件都想安装到C盘？教你修改默认安装位置！](https://mp.weixin.qq.com/s?__biz=MzUyNzc0ODI1Nw==&mid=2247489360&idx=1&sn=a7cd78f5f4d88fb5d5dbeb0a89be499a)
+- [为什么软件都想安装到 C 盘？教你修改默认安装位置！](https://mp.weixin.qq.com/s?__biz=MzUyNzc0ODI1Nw==&mid=2247489360&idx=1&sn=a7cd78f5f4d88fb5d5dbeb0a89be499a)
 
-> 可能有人会需要，最近我把C盘扩容到200G了，不折腾了，爱咋咋地吧
+> 可能有人会需要，最近我把 C 盘扩容到 200G 了，不折腾了，爱咋咋地吧
 
 - [杀好人救恶人 暗黑国漫《妙先生》发布终极预告](https://hot.cnbeta.com/articles/comic/926263.htm)
 
 > 哎呀，好期待
 
-- [被收割的游戏代练:我熬了个通宵，一分没挣还赔100元](https://tech.sina.com.cn/i/2019-12-27/doc-iihnzhfz8692431.shtml)
+- [被收割的游戏代练:我熬了个通宵，一分没挣还赔 100 元](https://tech.sina.com.cn/i/2019-12-27/doc-iihnzhfz8692431.shtml)
 
 > 工作和生活普遍是这种情况，越是下游、末端、看似门槛低的事情越难做，因为竞争环境太恶劣了，还不如卯足了劲去挣上游，做顶端，做雇代练的人，而不是做代练。
 
@@ -78,6 +77,3 @@
 - [阿里张勇湖畔分享：领导者如何“落子无悔”](https://mp.weixin.qq.com/s/lBZjppE5cwvNs9EfVHcTgg)
 
 > 阿里最大的壁垒是组织能力，文中多次提到“生产关系”，其实也是组织能力的一部分
-
-
-

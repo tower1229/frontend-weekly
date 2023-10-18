@@ -1,6 +1,6 @@
-# 前端周刊：2021-13期
+# 前端周刊：2021-13 期
 
-[![](/img/bing/20211023.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=红角鸮)
+[![](../img/bing/20211023.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=红角鸮)
 
 ## 前端开发
 
@@ -8,33 +8,33 @@
 
 > 终于，还在用百度搜索的人就剩下新手程序员了
 
-- [微信公众号文章markdown编辑器](https://github.com/doocs/md)
+- [微信公众号文章 markdown 编辑器](https://github.com/doocs/md)
 
 > 免费在线微信编辑器，可以很方便的自定义样式，默认样式也不错
 
-- [HTML与JSON格式互转](https://github.com/Jxck/html2json)
+- [HTML 与 JSON 格式互转](https://github.com/Jxck/html2json)
 
 > 一个使用场景是：把这个库做为富文本编辑器与数据库之间的转换层，可以在富文本编辑场景彻底摆脱对特定富文本编辑器的依赖。
 
-- [一个Windows7风格的CSS库](https://github.com/khang-nd/7.css)
+- [一个 Windows7 风格的 CSS 库](https://github.com/khang-nd/7.css)
 
-> 可能用electron给特定用户群体做客户端用得着
+> 可能用 electron 给特定用户群体做客户端用得着
 
 - [阿里发布的最新前端技术图谱](https://f2e.tech/)
 
 > 核心变化不大，可以看看有哪些时髦的上层应用，查漏补缺
 
-- [JS基础系列之 —— SVG 基础](https://juejin.cn/post/7023195642172276749)
+- [JS 基础系列之 —— SVG 基础](https://juejin.cn/post/7023195642172276749)
 
-> SVG是普遍被低估的一种前端开发技术，在轻度图形化领域SVG+CSS的性价比远高于canvas
+> SVG 是普遍被低估的一种前端开发技术，在轻度图形化领域 SVG+CSS 的性价比远高于 canvas
 
 - [如何成为一名优秀的业务人员/工程师](https://www.yuque.com/barretlee/thinking/my4hps)
 
 > 小胡子哥又一走心之笔
 
-- [Semi Design - UI组件库如何分层设计，使其具备适配多种mvvm框架能力](https://bytedance.feishu.cn/docs/doccnTgc0iGOVPubHZkwPpxXSNh)
+- [Semi Design - UI 组件库如何分层设计，使其具备适配多种 mvvm 框架能力](https://bytedance.feishu.cn/docs/doccnTgc0iGOVPubHZkwPpxXSNh)
 
-> 剥离组件库的UI层，使组件库可以嫁接到任意框架之上，成本其实很高，收益就不好说了，能不能持续干下去，值得观察。
+> 剥离组件库的 UI 层，使组件库可以嫁接到任意框架之上，成本其实很高，收益就不好说了，能不能持续干下去，值得观察。
 
 - [2021 年当我们聊前端部署时，我们在聊什么](https://mp.weixin.qq.com/s/E8UXYrJMY3AqBrprxfJ-3A)
 
@@ -48,15 +48,15 @@
 
 - [【七牛云】- 国内领先的企业级云服务商](https://marketing.qiniu.com/cps/redirect?redirect_id=4&cps_key=1hfwb75ib2jbm)
 
-> 七牛云的域名管理服务非常好用，还有免费的CDN加速，个人开发者必备
+> 七牛云的域名管理服务非常好用，还有免费的 CDN 加速，个人开发者必备
 
-- [【阿里云】2021双十一主会场](https://www.aliyun.com/activity/1111?userCode=y31qmczl)
+- [【阿里云】2021 双十一主会场](https://www.aliyun.com/activity/1111?userCode=y31qmczl)
 
-> 爆款云产品，新客特惠全年最低价，云服务器低至0.4折起，11.1开售
+> 爆款云产品，新客特惠全年最低价，云服务器低至 0.4 折起，11.1 开售
 
-- [【腾讯云】2021双十一满减开启](https://cloud.tencent.com/act/double11?spread_hash_key=d166fdb46eb63211c4921d4f9fbaf8d3&cps_key=55b0d6026f97f5980bceec15fcefa0af)
+- [【腾讯云】2021 双十一满减开启](https://cloud.tencent.com/act/double11?spread_hash_key=d166fdb46eb63211c4921d4f9fbaf8d3&cps_key=55b0d6026f97f5980bceec15fcefa0af)
 
-> 【腾讯云】2021双十一满减开启
+> 【腾讯云】2021 双十一满减开启
 
 - [全国移动电话卡“一证通查”](https://www.appinn.com/getsimnum-caict-final/)
 

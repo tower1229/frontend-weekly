@@ -1,12 +1,12 @@
-# 前端周刊：2022-4期
+# 前端周刊：2022-4 期
 
-[![](/img/bing/20220411.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=蕨菜)
+[![](../img/bing/20220411.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=蕨菜)
 
 ## 前端开发
 
 - [`npm audit`的理想与现实](https://overreacted.io/npm-audit-broken-by-design/)
 
-> 本文介绍了`npm audit`的工作原理以及现实中有什么缺陷。在npm如此流行的今天属于必读科普文。
+> 本文介绍了`npm audit`的工作原理以及现实中有什么缺陷。在 npm 如此流行的今天属于必读科普文。
 
 - [fingerprintjs-浏览器指纹生成库](https://github.com/fingerprintjs/fingerprintjs)
 
@@ -24,9 +24,9 @@
 
 > 很有价值的问题
 
-- [CSS纵横比属性](https://css-irl.info/aspect-ratio-is-great/)
+- [CSS 纵横比属性](https://css-irl.info/aspect-ratio-is-great/)
 
-> 新的CSS属性`aspect-ratio`可以实现特定纵横比的矩形，不兼容IE11
+> 新的 CSS 属性`aspect-ratio`可以实现特定纵横比的矩形，不兼容 IE11
 
 ## 行业周边
 
@@ -40,12 +40,11 @@
 
 - [【腾讯云】2022 春季采购](https://curl.qcloud.com/qBTP1dai)
 
-> 【腾讯云】爆款2核2G云服务器首年40元，企业首购最高获赠300元京东卡
+> 【腾讯云】爆款 2 核 2G 云服务器首年 40 元，企业首购最高获赠 300 元京东卡
 
-- [套路了几个灰产贩子，我发现造一批水军只要2000块钱](https://mp.weixin.qq.com/s/Lu2CggwOW6vmxecinVSImA)
+- [套路了几个灰产贩子，我发现造一批水军只要 2000 块钱](https://mp.weixin.qq.com/s/Lu2CggwOW6vmxecinVSImA)
 
 > “群控”手机拆掉屏幕电池只留主板，连灰产都产业升级了
-
 
 ## 加群交流
 

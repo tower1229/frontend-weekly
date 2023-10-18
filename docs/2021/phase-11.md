@@ -1,12 +1,12 @@
-# 前端周刊：2021-11期
+# 前端周刊：2021-11 期
 
-[![](/img/bing/20210823.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=小蓝鹭)
+[![](../img/bing/20210823.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=小蓝鹭)
 
 ## 前端开发
 
-- [25个你不得不知道的数组reduce高级用法](https://juejin.cn/post/6844904063729926152)
+- [25 个你不得不知道的数组 reduce 高级用法](https://juejin.cn/post/6844904063729926152)
 
-> 原以为reduce只能做累加，看完25个例子深入理解了reduce方法的实质
+> 原以为 reduce 只能做累加，看完 25 个例子深入理解了 reduce 方法的实质
 
 - [计算机时间到底是怎么来的？](https://mp.weixin.qq.com/s/SVokpTtlQDUYAo6oc_PGyA)
 
@@ -36,7 +36,7 @@
 
 > 这篇写的好，看到了技术的价值本质和价值局限，以及在技术之上如何创造更大的价值
 
-- [Vue Devtools扩展插件下载（无需翻墙）](https://chrome.zzzmh.cn/info?token=nhdogjmejiglipccpnnnanhbledajbpd)
+- [Vue Devtools 扩展插件下载（无需翻墙）](https://chrome.zzzmh.cn/info?token=nhdogjmejiglipccpnnnanhbledajbpd)
 
 > 没有梯子，寸步难行。。。
 
@@ -48,17 +48,17 @@
 
 - [【七牛云】- 国内领先的企业级云服务商](https://marketing.qiniu.com/cps/redirect?redirect_id=4&cps_key=1hfwb75ib2jbm)
 
-> 七牛云的域名管理服务非常好用，还有免费的CDN加速，个人开发者必备
+> 七牛云的域名管理服务非常好用，还有免费的 CDN 加速，个人开发者必备
 
 - [【阿里云】阿里云最全的优惠活动聚集地！](https://www.aliyun.com/activity?source=5176.11533457&userCode=y31qmczl)
 
 > 阿里云最全的优惠活动聚集地！
 
-- [【腾讯云】2021新春采购节，爆款产品特惠，助力企业上云](https://curl.qcloud.com/6TLg1x6p)
+- [【腾讯云】2021 新春采购节，爆款产品特惠，助力企业上云](https://curl.qcloud.com/6TLg1x6p)
 
-> 【腾讯云】2021新春采购节，爆款产品特惠，助力企业上云
+> 【腾讯云】2021 新春采购节，爆款产品特惠，助力企业上云
 
-- [有赞科技再向港交所提交招股书，上半年净亏损2.68亿元](https://www.36kr.com/p/1376872132244864)
+- [有赞科技再向港交所提交招股书，上半年净亏损 2.68 亿元](https://www.36kr.com/p/1376872132244864)
 
 > 有赞这种躺在微信生态链上的神仙商业模式竟然到现在还在亏损。。。。
 

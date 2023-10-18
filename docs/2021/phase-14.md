@@ -1,24 +1,24 @@
-# 前端周刊：2021-14期
+# 前端周刊：2021-14 期
 
-[![](/img/bing/20211122.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=伊吕波坂)
+[![](../img/bing/20211122.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=伊吕波坂)
 
 ## 前端开发
 
-- [用require.context批量引入vue组件](https://zhuanlan.zhihu.com/p/59564277)
+- [用 require.context 批量引入 vue 组件](https://zhuanlan.zhihu.com/p/59564277)
 
-> 最近知道的webpack api，需要批量引入组件的时候非常好用
+> 最近知道的 webpack api，需要批量引入组件的时候非常好用
 
-- [使用Jenkins+Gitlab集成Flutter自动化打包(Android)，并发布到蒲公英](https://blog.csdn.net/qq_20750639/article/details/119536371)
+- [使用 Jenkins+Gitlab 集成 Flutter 自动化打包(Android)，并发布到蒲公英](https://blog.csdn.net/qq_20750639/article/details/119536371)
 
-> 开发/测试环境Flutter APP 自动打包
+> 开发/测试环境 Flutter APP 自动打包
 
 - [在 Linux 操作系统上安装和配置 Flutter 开发环境](https://blog.csdn.net/weixin_43459071/article/details/101050944)
 
-> 上一篇的附属，因为开发服务器一般是Linux 操作系统
+> 上一篇的附属，因为开发服务器一般是 Linux 操作系统
 
-- [CSS属性：accent-color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color)
+- [CSS 属性：accent-color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color)
 
-> CSS原生支持定义控件颜色了
+> CSS 原生支持定义控件颜色了
 
 - [agora 开源在线教学系统](https://flat.whiteboard.agora.io/)
 
@@ -32,7 +32,7 @@
 
 > 带笔锋的手写签名 JS 库，支持 PC /移动端使用
 
-- [基于Vue的前端架构，我做了这15点](https://mp.weixin.qq.com/s/gROjYWEGkQ1ULYVnl_GaiQ)
+- [基于 Vue 的前端架构，我做了这 15 点](https://mp.weixin.qq.com/s/gROjYWEGkQ1ULYVnl_GaiQ)
 
 > 不错，归纳的挺完整
 
@@ -56,19 +56,19 @@
 
 - [【七牛云】- 国内领先的企业级云服务商](https://marketing.qiniu.com/cps/redirect?redirect_id=4&cps_key=1hfwb75ib2jbm)
 
-> 七牛云的域名管理服务非常好用，还有免费的CDN加速，个人开发者必备
+> 七牛云的域名管理服务非常好用，还有免费的 CDN 加速，个人开发者必备
 
-- [【阿里云】2021双十一主会场](https://www.aliyun.com/activity/1111?userCode=y31qmczl)
+- [【阿里云】2021 双十一主会场](https://www.aliyun.com/activity/1111?userCode=y31qmczl)
 
-> 爆款云产品，新客特惠全年最低价，云服务器低至0.4折起，11.1开售
+> 爆款云产品，新客特惠全年最低价，云服务器低至 0.4 折起，11.1 开售
 
-- [【腾讯云】2021双十一满减开启](https://cloud.tencent.com/act/double11?spread_hash_key=d166fdb46eb63211c4921d4f9fbaf8d3&cps_key=55b0d6026f97f5980bceec15fcefa0af)
+- [【腾讯云】2021 双十一满减开启](https://cloud.tencent.com/act/double11?spread_hash_key=d166fdb46eb63211c4921d4f9fbaf8d3&cps_key=55b0d6026f97f5980bceec15fcefa0af)
 
-> 【腾讯云】2021双十一满减开启
+> 【腾讯云】2021 双十一满减开启
 
-- [Windows 11乱改？或许这才是右键菜单的完美解决方案](https://www.cnbeta.com/articles/tech/1198093.htm)
+- [Windows 11 乱改？或许这才是右键菜单的完美解决方案](https://www.cnbeta.com/articles/tech/1198093.htm)
 
-> Easy Context Menu支持几乎市面上流行的所有Windows系统，从XP到最新的Windows 11，都可以利用它来定制右键菜单的内容
+> Easy Context Menu 支持几乎市面上流行的所有 Windows 系统，从 XP 到最新的 Windows 11，都可以利用它来定制右键菜单的内容
 
 ## 加群交流
 

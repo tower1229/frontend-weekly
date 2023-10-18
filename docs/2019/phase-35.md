@@ -1,6 +1,6 @@
-# 前端周刊：2019-35期
+# 前端周刊：2019-35 期
 
-[![](/img/bing/20190903.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=欧亚红松鼠)
+[![](../img/bing/20190903.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=欧亚红松鼠)
 
 ## 前端开发
 
@@ -8,7 +8,7 @@
 
 > 提供了非常完整的招聘工作的思考脉络，很有价值
 
-- [聊聊JS DOM变化的监听检测与应用](https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/)
+- [聊聊 JS DOM 变化的监听检测与应用](https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/)
 
 > 就算用不到也应该知道的基础知识
 
@@ -20,10 +20,9 @@
 
 > 本篇是谷歌工程实践项目中的一篇，非常值得一读，有时间整个项目都应该好好翻翻
 
-- [Google为Chrome提出“隐私沙盒”方案 试图解决令其左右为难的问题](https://www.cnbeta.com/articles/tech/887155.htm)
+- [Google 为 Chrome 提出“隐私沙盒”方案 试图解决令其左右为难的问题](https://www.cnbeta.com/articles/tech/887155.htm)
 
 > 未来的用户隐私将是相对的，广告商还是可以找到你，只是不知道你到底是“谁”；建议大家都去试试谷歌的**Password Checkup**的官方扩展插件，检测密码是否已经泄露。
-
 
 ## 行业周边
 

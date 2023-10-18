@@ -1,6 +1,6 @@
-# 前端周刊：2022-2期
+# 前端周刊：2022-2 期
 
-[![](/img/bing/20220128.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=短耳猫头鹰)
+[![](../img/bing/20220128.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=短耳猫头鹰)
 
 ## 前端开发
 
@@ -10,51 +10,51 @@
 
 - [**项目推荐：@tower1229/axios**](https://github.com/tower1229/axios-cache)
 
-> Axios的升级替代品，与Axios完全相同的API，仅仅为Instance.get()方法扩展缓存功能
+> Axios 的升级替代品，与 Axios 完全相同的 API，仅仅为 Instance.get()方法扩展缓存功能
 
 - [**项目推荐：@tower1229/vue-store**](https://github.com/tower1229/vue-store)
 
-> 更简单的vue状态管理插件，如果你也觉得vuex有点复杂，那么你需要这个
+> 更简单的 vue 状态管理插件，如果你也觉得 vuex 有点复杂，那么你需要这个
 
 - [密码强度检测算法](https://blog.csdn.net/u010156024/article/details/45673581)
 
-> 相对严谨的密码强度检测算法，对应的[js实现](https://github.com/jcg9487/PasswordStrengthJS)
+> 相对严谨的密码强度检测算法，对应的[js 实现](https://github.com/jcg9487/PasswordStrengthJS)
 
-- [QGIS添加字段字段赋值](https://blog.csdn.net/sinat_41310868/article/details/105353332)
+- [QGIS 添加字段字段赋值](https://blog.csdn.net/sinat_41310868/article/details/105353332)
 
-> QGIS是个好东西，比Arcgis轻便很多，常用功能也都有
+> QGIS 是个好东西，比 Arcgis 轻便很多，常用功能也都有
 
-- [Git 通过submodule添加子项目/库(git仓库嵌套)](https://blog.csdn.net/JackLiu16/article/details/80468694)
+- [Git 通过 submodule 添加子项目/库(git 仓库嵌套)](https://blog.csdn.net/JackLiu16/article/details/80468694)
 
-> Git仓库嵌套真是个神奇的功能，特定情况下非常实用
+> Git 仓库嵌套真是个神奇的功能，特定情况下非常实用
 
-- [UI自动化测试神器->Cypress](https://www.jianshu.com/p/55ed1d40f40f)
+- [UI 自动化测试神器->Cypress](https://www.jianshu.com/p/55ed1d40f40f)
 
 > 有空研究一下
 
-- [Java代码获取图片格式及颜色模型](https://blog.csdn.net/yangfengjueqi/article/details/79295662)
+- [Java 代码获取图片格式及颜色模型](https://blog.csdn.net/yangfengjueqi/article/details/79295662)
 
-> 通过图片转16进制后图片内容特征进行识别。附：[图片转16进制的前端实现](js将本地上传的图片转换成十六进制字符串数组)
+> 通过图片转 16 进制后图片内容特征进行识别。附：[图片转 16 进制的前端实现](js将本地上传的图片转换成十六进制字符串数组)
 
-- [Blender+GoogleMaps+GIS插件生成三维地形图](https://zhuanlan.zhihu.com/p/421156296)
+- [Blender+GoogleMaps+GIS 插件生成三维地形图](https://zhuanlan.zhihu.com/p/421156296)
 
-> Blender生成三维地形图
+> Blender 生成三维地形图
 
 ## 行业周边
 
 - [【七牛云】国内领先的企业级云服务商](https://marketing.qiniu.com/cps/redirect?redirect_id=4&cps_key=1hfwb75ib2jbm)
 
-> 七牛云的域名管理服务非常好用，还有免费的CDN加速，个人开发者必备
+> 七牛云的域名管理服务非常好用，还有免费的 CDN 加速，个人开发者必备
 
-- [【阿里云】云服务器ECS年终特惠](https://www.aliyun.com/daily-act/ecs/fy22-12-yure?userCode=y31qmczl)
+- [【阿里云】云服务器 ECS 年终特惠](https://www.aliyun.com/daily-act/ecs/fy22-12-yure?userCode=y31qmczl)
 
-> 【阿里云】云服务器ECS年终特惠
+> 【阿里云】云服务器 ECS 年终特惠
 
-- [【腾讯云】2021双十二限时秒杀](https://cloud.tencent.com/act/cps/redirect?redirect=1077&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
+- [【腾讯云】2021 双十二限时秒杀](https://cloud.tencent.com/act/cps/redirect?redirect=1077&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
 
-> 【腾讯云】云产品限时秒杀，爆款2核4G云服务器首年74元
+> 【腾讯云】云产品限时秒杀，爆款 2 核 4G 云服务器首年 74 元
 
-- [**1.6万字马斯克访谈实录：载人飞船上天前，我曾跪地祈祷**](https://chedongxi.com/p/264710.html)
+- [**1.6 万字马斯克访谈实录：载人飞船上天前，我曾跪地祈祷**](https://chedongxi.com/p/264710.html)
 
 > 非常值得一读，我们见到的伟大，只是伟大的一角
 

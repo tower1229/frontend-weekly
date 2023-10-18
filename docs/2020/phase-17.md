@@ -1,32 +1,32 @@
-# 前端周刊：2020-17期
+# 前端周刊：2020-17 期
 
-[![](/img/bing/20200903.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=陆家嘴金融贸易区)
+[![](../img/bing/20200903.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=陆家嘴金融贸易区)
 
 ## 前端开发
 
-- [Mozilla邀请测试新JS引擎WarpBuilder 结果表明有惊人性能改善](https://www.cnbeta.com/articles/tech/1034043.htm)
+- [Mozilla 邀请测试新 JS 引擎 WarpBuilder 结果表明有惊人性能改善](https://www.cnbeta.com/articles/tech/1034043.htm)
 
 > 火狐浏览器团队是真朋克，占有率再低也不放弃开发
 
 - [Chrome 86 重要更新解读](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247487813&idx=1&sn=84b44c71a246a972176ad1884da428f1)
 
-> Chrome 86 在2020年10月推出了稳定版，现已全面应用于Android、Chrome OS、Linux、macOS 和 Windows等平台
+> Chrome 86 在 2020 年 10 月推出了稳定版，现已全面应用于 Android、Chrome OS、Linux、macOS 和 Windows 等平台
 
-- [图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)
+- [图片加载失败后 CSS 样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)
 
-> 通过onerror脚本给元素添加类
+> 通过 onerror 脚本给元素添加类
 
 - [FFMPEG.WASM](https://ffmpegwasm.github.io/)
 
-> 万能的视频工具箱FFMPEG WASM版，Nodejs和浏览器环境都可以用
+> 万能的视频工具箱 FFMPEG WASM 版，Nodejs 和浏览器环境都可以用
 
-- [细说iOS Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
+- [细说 iOS Safari 下 focus 的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 
-> iOS Safari浏览器下的focus行为和其他浏览器都一些明显不一致的地方，有时候会给开发带来困扰，这里就说说相关的细节知识，均源自于自己日常开发遇到的问题。
+> iOS Safari 浏览器下的 focus 行为和其他浏览器都一些明显不一致的地方，有时候会给开发带来困扰，这里就说说相关的细节知识，均源自于自己日常开发遇到的问题。
 
-- [挖洞经验 | Instagram滤镜应用中的存储型XSS（$25K）](https://www.freebuf.com/articles/web/253213.html)
+- [挖洞经验 | Instagram 滤镜应用中的存储型 XSS（$25K）](https://www.freebuf.com/articles/web/253213.html)
 
-> 价值15w的漏洞长这样
+> 价值 15w 的漏洞长这样
 
 - [九月总结及阶段思考](https://liudanking.com/beautiful-life/thinking-in-writing-of-202009/)
 
@@ -46,9 +46,9 @@
 
 > 双十一主会场 —— 上亿元津贴限时发放，更有全年超底价上云必备限时抢购
 
-- [【腾讯云】11.11 云上盛惠，云产品限时抢购，1核2G云服务器首年88元](https://cloud.tencent.com/act/cps/redirect?redirect=1074&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
+- [【腾讯云】11.11 云上盛惠，云产品限时抢购，1 核 2G 云服务器首年 88 元](https://cloud.tencent.com/act/cps/redirect?redirect=1074&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
 
-> 【腾讯云】11.11 云上盛惠，云产品限时抢购，1核2G云服务器首年88元
+> 【腾讯云】11.11 云上盛惠，云产品限时抢购，1 核 2G 云服务器首年 88 元
 
 - [关于高尿酸的一些研究](http://blog.devtang.com/2020/09/19/study-of-HUA/)
 

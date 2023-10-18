@@ -1,6 +1,6 @@
-# 前端周刊：2019-30期
+# 前端周刊：2019-30 期
 
-[![](/img/bing/20190802.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=%E5%85%8B%E6%8B%89%E8%8E%AB%E5%85%8B%E6%B9%96%E4%B8%8A%E7%9A%84%E5%80%92%E5%BD%B1)
+[![](../img/bing/20190802.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=%E5%85%8B%E6%8B%89%E8%8E%AB%E5%85%8B%E6%B9%96%E4%B8%8A%E7%9A%84%E5%80%92%E5%BD%B1)
 
 ## 前端开发
 
@@ -18,21 +18,21 @@
 
 - [GraphQL-BFF：微服务背景下的前后端数据交互方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233171&idx=1&sn=6f2550d9433dbb75d52d0aa718ef8801)
 
-> 非常冗长的介绍了GraphQL的思想、价值和实现思路。GraphQL多数时候是个痒点需求，除非serverless全面到来，否则很难流行起来——编者注
+> 非常冗长的介绍了 GraphQL 的思想、价值和实现思路。GraphQL 多数时候是个痒点需求，除非 serverless 全面到来，否则很难流行起来——编者注
 
 - [npm 的经济风云](https://juejin.im/post/5d2d9e7af265da1b8b2b91ca)
 
-> 在没有盈利模式的情况下，公共资源中心化将非常危险，期待npm公司会怎么收场————编者注
+> 在没有盈利模式的情况下，公共资源中心化将非常危险，期待 npm 公司会怎么收场————编者注
 
-- [CSS :not伪类可能错误的认识](https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/)
+- [CSS :not 伪类可能错误的认识](https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/)
 
-> :not伪类是目前唯一一个可以大规模放心使用的逻辑伪类，非常有用，优点也很突出，大家可以多用用
+> :not 伪类是目前唯一一个可以大规模放心使用的逻辑伪类，非常有用，优点也很突出，大家可以多用用
 
 - [CSS clip-path 生成器](https://www.html.cn/tool/css-clip-path/)
 
-> 生成常见图形的clip-path代码
+> 生成常见图形的 clip-path 代码
 
-- [从Hexo文章置顶看需求分析思路](https://refined-x.com/2019/08/02/top-article/)
+- [从 Hexo 文章置顶看需求分析思路](https://refined-x.com/2019/08/02/top-article/)
 
 > 为什么这么简单、历史悠久的需求，搜索引擎都不能给出一致而正确的结果呢？
 
@@ -46,13 +46,13 @@
 
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
 
-> 目前最好的TypeScript 入门教程，最多花三个小时就能看完
+> 目前最好的 TypeScript 入门教程，最多花三个小时就能看完
 
 ## 行业周边
 
-- [令人心寒的不是GitHub突然断供 而是 CEO 对此表示无能为力](https://www.cnbeta.com/articles/tech/872905.htm)
+- [令人心寒的不是 GitHub 突然断供 而是 CEO 对此表示无能为力](https://www.cnbeta.com/articles/tech/872905.htm)
 
-> GitHub竟然也会断供，吓得我赶紧把代码在[开源中国](https://gitee.com/enterprises?invite_code=flxe)备份了一遍————编者注
+> GitHub 竟然也会断供，吓得我赶紧把代码在[开源中国](https://gitee.com/enterprises?invite_code=flxe)备份了一遍————编者注
 
 - [dogedoge——国产搜索引擎干净无广告更纯粹](https://www.dogedoge.com/)
 
@@ -60,7 +60,7 @@
 
 - [支付宝开启花呗出账日与对应还款日调整预约](https://www.cnbeta.com/articles/tech/873069.htm)
 
-> 当前花呗是1号出帐，10号还款。预约之后，可以选择5号出帐，15号还款；或者10号出帐，20号还款。
+> 当前花呗是 1 号出帐，10 号还款。预约之后，可以选择 5 号出帐，15 号还款；或者 10 号出帐，20 号还款。
 
 - [谷歌地球 Web 版](https://earth.google.com/web)
 

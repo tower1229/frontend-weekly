@@ -1,13 +1,12 @@
-# 前端周刊：2020-4期
+# 前端周刊：2020-4 期
 
-[![](/img/bing/20200406.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=姬路城)
-
+[![](../img/bing/20200406.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=姬路城)
 
 ## 前端开发
 
-- [ios input type=search软键盘没有搜索按钮问题](https://blog.csdn.net/xuexizhe88/article/details/79744258)
+- [ios input type=search 软键盘没有搜索按钮问题](https://blog.csdn.net/xuexizhe88/article/details/79744258)
 
-> 必须在input外层加上form，必须有action，算是个小坑，记录一下
+> 必须在 input 外层加上 form，必须有 action，算是个小坑，记录一下
 
 - [程序员修炼之路：你该知道的 7 个必经阶段](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247495088&idx=1&sn=cf34edb66e84fff63b00186bcadce886)
 
@@ -17,7 +16,7 @@
 
 > 有出色的业务结果；有显著的能力变化。在这两个晋升原则之前，首先要想明白自己要的是什么，花无根不果。
 
-- [基于前端技术生成PDF方案](https://segmentfault.com/a/1190000019487235)
+- [基于前端技术生成 PDF 方案](https://segmentfault.com/a/1190000019487235)
 
 > 原来前端还有这能力，实际项目应用了一下，完美
 
@@ -29,16 +28,15 @@
 
 > 200323 金观点
 
-
 ## 行业周边
 
-- [【采购季】上云仅¥223/3年](https://www.aliyun.com/sale-season/2020/procurement-new-members?userCode=y31qmczl)
+- [【采购季】上云仅 ¥223/3 年](https://www.aliyun.com/sale-season/2020/procurement-new-members?userCode=y31qmczl)
 
 > 阿里云的云服务器新用户专享活动，白菜价
 
-- [【域名特惠】COM域名注册23元/年+续费5元代金券+6元个人专业版DSN套餐](https://www.dnspod.cn/promo/domainscarnival?promo_code=3LIUUR11729&source=sharelink&from=link)
+- [【域名特惠】COM 域名注册 23 元/年+续费 5 元代金券+6 元个人专业版 DSN 套餐](https://www.dnspod.cn/promo/domainscarnival?promo_code=3LIUUR11729&source=sharelink&from=link)
 
-> 国内最好的DNS服务商【DNSPod】，手里有域名的不要错过，买到就是赚到
+> 国内最好的 DNS 服务商【DNSPod】，手里有域名的不要错过，买到就是赚到
 
 - [键盘不按 ABCD 排序是怕你打字太快？真相更可笑](https://mp.weixin.qq.com/s?__biz=MzUyNzc0ODI1Nw==&mid=2247491053&idx=1&sn=cb5fa4916dde3815a8efcdcdb78e3abe)
 
@@ -50,7 +48,7 @@
 
 - [梁建章谈远程办公：建议未来让员工每周在家上一天班](https://www.cnbeta.com/articles/tech/962885.htm)
 
-> 远程办公带来的时间收益对个人来说甚至是无价的，也能减少通勤带来的社会资源占用，对企业而言其实只要把KPI和协同机制跟上，远程办公不应该有阻力。
+> 远程办公带来的时间收益对个人来说甚至是无价的，也能减少通勤带来的社会资源占用，对企业而言其实只要把 KPI 和协同机制跟上，远程办公不应该有阻力。
 
 - [疫情寒冬，新的势力正在茁壮成长](https://mp.weixin.qq.com/s?__biz=MzUzMjY0NDY4Ng==&mid=2247486957&idx=1&sn=46cdaaefc64028e59ee29b42b3c5aaf3)
 
@@ -65,4 +63,3 @@
 添加好友，备注“加群”
 
 ![refned_x](../img/a/refined-x.jpg)
-

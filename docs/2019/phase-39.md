@@ -1,6 +1,6 @@
-# 前端周刊：2019-39期
+# 前端周刊：2019-39 期
 
-[![](/img/bing/20191011.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=拱门国家公园)
+[![](../img/bing/20191011.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=拱门国家公园)
 
 ## 前端开发
 
@@ -8,19 +8,19 @@
 
 > 本期最有价值内容。
 
-- [Vue - Table表格渲染上千数据优化](https://zhuanlan.zhihu.com/p/53455289)
+- [Vue - Table 表格渲染上千数据优化](https://zhuanlan.zhihu.com/p/53455289)
 
 > 虚拟列表，移动端性能
 
 - [谷歌新增链接的说明符（英文）](https://webmasters.googleblog.com/2019/09/evolving-nofollow-new-ways-to-identify.html)
 
-> 谷歌宣布，除了nofollow以外，新增两个 HTML 语言中的链接说明，帮助搜索引擎更好地判断链接的性质。应该会让SEO更难做了，搜索结果排除了人为干扰会变得更准确，搜索引擎竞价排名的价值也就更大。
+> 谷歌宣布，除了 nofollow 以外，新增两个 HTML 语言中的链接说明，帮助搜索引擎更好地判断链接的性质。应该会让 SEO 更难做了，搜索结果排除了人为干扰会变得更准确，搜索引擎竞价排名的价值也就更大。
 
 - [我最喜欢的 Chrome 插件（英文）](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)
 
 > 作者是一个前端程序员，介绍自己使用的专用于 Web 开发的 Chrome 浏览器插件。
 
-- [Postwoman-一个WEB版的Postman](https://github.com/liyasthomas/postwoman)
+- [Postwoman-一个 WEB 版的 Postman](https://github.com/liyasthomas/postwoman)
 
 > 这名字起的也太针锋相对了
 
@@ -28,11 +28,11 @@
 
 > 可能用得上
 
-- [实现a元素href URL链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/)
+- [实现 a 元素 href URL 链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/)
 
 > 多页面场景下挺实用的一个体验增强特性，张鑫旭不愧为干货大神。
 
-- [IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/)
+- [IMG 图片原生懒加载 loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/)
 
 > 原生图片懒加载相比传统分屏懒加载更向用户体验妥协，更依赖对网络资源的占用，考虑到网速稳步提升的大环境，绝大多数场景下原生懒加载都是更好的方案。
 
@@ -42,6 +42,6 @@
 
 ## 行业周边
 
-- [iOS爆出“史诗级”安全漏洞](https://www.williamlong.info/archives/5841.html)
+- [iOS 爆出“史诗级”安全漏洞](https://www.williamlong.info/archives/5841.html)
 
-> iOS存在着一个硬件漏洞，并且无法修复，可导致数以亿计的iOS设备遭到永久性、不可阻挡的越狱。
+> iOS 存在着一个硬件漏洞，并且无法修复，可导致数以亿计的 iOS 设备遭到永久性、不可阻挡的越狱。

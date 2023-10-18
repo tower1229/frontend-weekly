@@ -1,6 +1,6 @@
 # 前端周刊：2022-6 期
 
-[![](/img/bing/20220413.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=结香花)
+[![](../img/bing/20220413.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=结香花)
 
 ## 前端开发
 

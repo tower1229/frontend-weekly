@@ -1,6 +1,6 @@
-# 前端周刊：2019-38期
+# 前端周刊：2019-38 期
 
-[![](/img/bing/20190926.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=美洲山杨)
+[![](../img/bing/20190926.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=美洲山杨)
 
 ```
  预祝大家国庆节快乐！
@@ -30,15 +30,14 @@
 
 ## 行业周边
 
-- [华为、OPPO、一加、realme完成统一推送服务开发](https://www.pingwest.com/w/194902)
+- [华为、OPPO、一加、realme 完成统一推送服务开发](https://www.pingwest.com/w/194902)
 
 > 从基础设施开始另起炉灶
 
-- [招聘启事都要求35岁以下的，那35岁以后油腻中年人该去哪？](https://mp.weixin.qq.com/s/AXmXQye9_puIFVn_okTEPw)
+- [招聘启事都要求 35 岁以下的，那 35 岁以后油腻中年人该去哪？](https://mp.weixin.qq.com/s/AXmXQye9_puIFVn_okTEPw)
 
 > 一命二运三风水，越来越觉得有道理，个人成功必须依靠运气+努力，要说哪个更重要，可能运气还更重要一点
 
 - [Raccoon 从 Google Play 将安卓 apk 安装包下载到桌面的工具](https://raccoon.onyxbits.de/apk-downloader/)
 
-> 简直神器，但是安装前需要先安装java环境
-
+> 简直神器，但是安装前需要先安装 java 环境
