@@ -1,6 +1,6 @@
 # 前端周刊：2023-2 期
 
-[![](https://frontend-weekly.com/img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=洛斯马诺斯岩画)
+[![](../img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=洛斯马诺斯岩画)
 
 ## 前端开发
 
@@ -66,7 +66,7 @@
 
 添加好友，备注“加群”
 
-![refned_x](https://frontend-weekly.com/img/a/refined-x.jpg)
+![refned_x](../img/a/refined-x.jpg)
 
 ## 前端周刊
 
