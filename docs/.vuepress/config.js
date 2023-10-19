@@ -15,11 +15,11 @@ module.exports = {
         target: "_blank",
       },
     ],
-    // algolia: {
-    //   apiKey: "d0fd960e06cd39381ff06f1ed1064046",
-    //   //   indexName: "<INDEX_NAME>",
-    //   appId: "IKIJDCYK66",
-    // },
+    algolia: {
+      apiKey: "6d7cde47c2b44801b8939d765c48d541",
+      indexName: "frontend-weekly",
+      appId: "KC41DDVPTM",
+    },
     sidebar: [
       {
         title: "2023 年", // 必要的
