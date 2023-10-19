@@ -16,7 +16,7 @@
 
 《彩虹小译》是一款中英对照模式的网页翻译插件，完美解决了这个问题。遇到翻译不准确的段落，我们可以对照原文，利用自己有限的英文水平再去抢救一下，而不需要再全文翻回去查这句话到底是怎么说的，解决了英文文档阅读中的一个痛点。
 
-![caiyunxiaoyi](img/caiyunxiaoyi.png)
+![caiyunxiaoyi](./img/caiyunxiaoyi.png)
 
 [**下载彩虹小译**](https://chrome.google.com/webstore/detail/lingocloud-interpreter/jmpepeebcbihafjjadogphmbgiffiajh?utm_source=chrome-ntp-icon)
 
@@ -24,7 +24,7 @@
 
 直到我发现了《划词翻译》这款 Chrome 插件，遇到不认识的单词，只要鼠标双击选中（或划词选中），旁边会立即出现翻译按钮，点击出翻译结果。这种方式可以最大限度的减少对阅读过程的干扰，维持“心流”状态，而且越是读难啃的文档体验就越好。
 
-![huacifanyi](img/huacifanyi.png)
+![huacifanyi](./img/huacifanyi.png)
 
 [**下载划词翻译**](https://github.com/Selection-Translator/crx-selection-translate)
 
@@ -44,7 +44,7 @@
 
 个人使用【入门版】就可以，速度那叫一个稳。
 
-![tools-1](img/tools-1.png)
+![tools-1](./img/tools-1.png)
 
 免费工具找来找去，最终浪费的是自己的时间，[**不如花点小钱享受稳定的服务。**](https://cn.googo.us/#/register?code=wUQxCh6N)
 
