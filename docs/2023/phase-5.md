@@ -4,6 +4,26 @@
 
 ## 前端开发
 
+- [Flutter 与 React Native 的开发体验比较](https://stackoverflow.blog/2022/10/31/comparing-frameworks-for-cross-platform-apps-flutter-vs-react-native/)
+
+> 对比了 Flutter 与 React Native 的开发体验
+
+- [通义灵码](https://tongyi.aliyun.com/lingma/)
+
+> 阿里出品的代码智能生成插件，还不错，暂时免费
+
+- [relingo - 英文学习插件](https://cn.relingo.net/zh/index)
+
+> 以将网页中的生词高亮显示，并支持划词翻译，是很好用的英语学习工具
+
+- [daisyUI - Tailwind CSS 组件库](https://daisyui.com/)
+
+> The most popular component library for Tailwind CSS
+
+- [spritesheet.js spritesheet 生成工具](https://github.com/krzysztof-o/spritesheet.js/)
+
+> 小游戏开发必备的精灵图制作工具
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
@@ -17,6 +37,10 @@
 - [【腾讯云】云服务器等爆品抢先购，低至 4.2 元/月](https://cloud.tencent.com/act/cps/redirect?redirect=2446&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
 
 > 【腾讯云】云服务器等爆品抢先购，低至 4.2 元/月
+
+- [迷你派采集器](https://www.minirpa.net/)
+
+> 最强小白网页采集器,无需了解技术知识,可见即可采集
 
 ## 加群交流
 
