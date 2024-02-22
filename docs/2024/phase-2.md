@@ -4,6 +4,10 @@
 
 ## 前端开发
 
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/primitives.html#primitives)
+
+> Rust by Example (RBE) 是一个可运行示例的集合，用于说明各种 Rust 概念和标准库。
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
@@ -17,6 +21,10 @@
 - [【腾讯云】云服务器等爆品抢先购，低至 4.2 元/月](https://cloud.tencent.com/act/cps/redirect?redirect=2446&cps_key=55b0d6026f97f5980bceec15fcefa0af&from=console)
 
 > 【腾讯云】云服务器等爆品抢先购，低至 4.2 元/月
+
+- [AITDK 扩展 流量 & Whois & 网站 SEO 分析](https://aitdk.com/zh-CN/extension/)
+
+> AITDK 是一款多功能的浏览器扩展，旨在提供全面的网站分析。凭借其强大的功能，AITDK 能够跟踪网站流量，执行 Whois 查询，并进行 SEO 分析。
 
 ## 加群交流
 
