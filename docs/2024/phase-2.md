@@ -8,6 +8,22 @@
 
 > Rust by Example (RBE) 是一个可运行示例的集合，用于说明各种 Rust 概念和标准库。
 
+- [自适应 iframe 高度](https://mp.weixin.qq.com/s/8NmYRzPlTTihJVUybkqqOQ)
+
+> 在 HTML5 之前，有很多使用 JavaScript 的 Hack 技巧，代码量大，而且很难通用。随着现代浏览器引入了新的 ResizeObserver API，解决 iframe 高度问题就变得简单了。
+
+- [Web 终极拦截技巧（全是骚操作）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/)
+
+> 如果系统的控制权、代码完全被掌控，很容易添加中间层；现实情况我们往往无法控制系统的所有细节，所以需要使用一些 “非常规”（拦截） 手段来增加中间层。
+
+- [JS 多线程并发](https://hughfenghen.github.io/posts/2023/03/27/js-concurrent/)
+
+> 10 个线程同时执行 1000 个任务，如何避免某个任务被重复执行？
+
+- [一文搞懂 React Hooks](https://mp.weixin.qq.com/s/WS8Z-8hfvhhkdTORU6P-ZQ)
+
+> 主要演示 v16 提供的 10 种和 v18 中提供的 5 种 React Hooks API 的使用
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
