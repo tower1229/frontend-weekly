@@ -24,6 +24,10 @@
 
 > 主要演示 v16 提供的 10 种和 v18 中提供的 5 种 React Hooks API 的使用
 
+- [搭一个和阿里云类似的 OSS 服务](https://devops.aliyun.com/lingma/login?port=37510&state=2-45ff83047a4148259ead4026c489b2d1)
+
+> minio 可以实现和阿里云 OSS 一样的功能
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
