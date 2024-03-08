@@ -1,6 +1,6 @@
 # 前端周刊：2024-2 期
 
-[![](../img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=洛斯马诺斯岩画)
+[![](../img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=Roques+de+Benet+rocks+Spain&form=hpcapt&filters=HpDate:%2220240307_0800%22)
 
 ## 前端开发
 
@@ -27,6 +27,10 @@
 - [搭一个和阿里云类似的 OSS 服务](https://devops.aliyun.com/lingma/login?port=37510&state=2-45ff83047a4148259ead4026c489b2d1)
 
 > minio 可以实现和阿里云 OSS 一样的功能
+
+- [在线缩小 MP3 文件尺寸](https://www.mp3smaller.com/zh/)
+
+> MP3Smaller 是免费的 MP3 压缩工具，能够让您在线缩小 MP3 文件的尺寸，在线压缩 MP3 音频文件。
 
 ## 行业周边
 
