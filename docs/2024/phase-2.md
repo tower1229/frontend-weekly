@@ -32,6 +32,10 @@
 
 > MP3Smaller 是免费的 MP3 压缩工具，能够让您在线缩小 MP3 文件的尺寸，在线压缩 MP3 音频文件。
 
+- [入行 15 年，我还是觉得编程很难](https://mp.weixin.qq.com/s/B7Z0ROkiBqqxVKkLNR9BxQ)
+
+> 不论公司多大、项目多牛，在实际工作中遇见好代码，仍然是小概率事件。
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
