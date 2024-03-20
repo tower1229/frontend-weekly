@@ -8,6 +8,10 @@
 
 > 这篇介绍将简略地从技术角度聊聊他们的发展脉络。希望看完之后，能够了解 Text2Image 文生图这个领域中耳熟能详的方法。
 
+- [NoSleep.js](https://github.com/richtr/NoSleep.js/)
+
+> 在任何浏览器中防止显示屏休眠并启用唤醒锁定。
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
