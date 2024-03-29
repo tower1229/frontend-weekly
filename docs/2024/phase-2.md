@@ -1,6 +1,6 @@
 # 前端周刊：2024-2 期
 
-[![](../img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=洛斯马诺斯岩画)
+[![](../img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=Roques+de+Benet+rocks+Spain&form=hpcapt&filters=HpDate:%2220240307_0800%22)
 
 ## 前端开发
 
@@ -8,21 +8,37 @@
 
 > 字节出品的表格插件
 
-- [Web 文件系统（OPFS 及工具）介绍](https://hughfenghen.github.io/posts/2024/03/14/web-storage-and-opfs/)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/primitives.html#primitives)
 
-> 文件系统是往往是构建大型软件的基石之一，很长一段时间 Web 平台因缺失成熟的文件系统成为构建大型软件的阻碍，如今 OPFS (opens new window)可弥补这一缺憾。
+> Rust by Example (RBE) 是一个可运行示例的集合，用于说明各种 Rust 概念和标准库。
+
+- [自适应 iframe 高度](https://mp.weixin.qq.com/s/8NmYRzPlTTihJVUybkqqOQ)
+
+> 在 HTML5 之前，有很多使用 JavaScript 的 Hack 技巧，代码量大，而且很难通用。随着现代浏览器引入了新的 ResizeObserver API，解决 iframe 高度问题就变得简单了。
 
 - [Web 终极拦截技巧（全是骚操作）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/)
 
-> 如果系统的控制权、代码完全被掌控，很容易添加中间层；现实情况我们往往无法控制系统的所有环节，所以需要使用一些 “非常规”（拦截） 手段来增加中间层。
+> 如果系统的控制权、代码完全被掌控，很容易添加中间层；现实情况我们往往无法控制系统的所有细节，所以需要使用一些 “非常规”（拦截） 手段来增加中间层。
 
-- [一句话总结：TS 何时选择 interface 或 type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/)
+- [JS 多线程并发](https://hughfenghen.github.io/posts/2023/03/27/js-concurrent/)
 
-> TS 的 interface 和 type 的区别
+> 10 个线程同时执行 1000 个任务，如何避免某个任务被重复执行？
 
-- [CSS 框架排名](https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
+- [一文搞懂 React Hooks](https://mp.weixin.qq.com/s/WS8Z-8hfvhhkdTORU6P-ZQ)
 
-> 按 GitHub 星星数量排序前 40 个最受欢迎的 CSS 框架
+> 主要演示 v16 提供的 10 种和 v18 中提供的 5 种 React Hooks API 的使用
+
+- [搭一个和阿里云类似的 OSS 服务](https://devops.aliyun.com/lingma/login?port=37510&state=2-45ff83047a4148259ead4026c489b2d1)
+
+> minio 可以实现和阿里云 OSS 一样的功能
+
+- [在线缩小 MP3 文件尺寸](https://www.mp3smaller.com/zh/)
+
+> MP3Smaller 是免费的 MP3 压缩工具，能够让您在线缩小 MP3 文件的尺寸，在线压缩 MP3 音频文件。
+
+- [入行 15 年，我还是觉得编程很难](https://mp.weixin.qq.com/s/B7Z0ROkiBqqxVKkLNR9BxQ)
+
+> 不论公司多大、项目多牛，在实际工作中遇见好代码，仍然是小概率事件。
 
 ## 行业周边
 
@@ -38,9 +54,9 @@
 
 > 【腾讯云】云服务器等爆品抢先购，低至 4.2 元/月
 
-- [Z2H -在线生成字贴](https://paper.z2h.cn/)
+- [AITDK 扩展 流量 & Whois & 网站 SEO 分析](https://aitdk.com/zh-CN/extension/)
 
-> 用正确的方法刻意练习，每个人都能写出一手漂亮的字
+> AITDK 是一款多功能的浏览器扩展，旨在提供全面的网站分析。凭借其强大的功能，AITDK 能够跟踪网站流量，执行 Whois 查询，并进行 SEO 分析。
 
 ## 加群交流
 

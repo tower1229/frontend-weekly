@@ -26,7 +26,7 @@ module.exports = {
         path: "/2024/", // 可选的, 标题的跳转链接，应为绝对路径且必须存在
         collapsable: false,
         sidebarDepth: 1,
-        children: ["2024/phase-1"],
+        children: ["2024/phase-1", "2024/phase-2"],
       },
       {
         title: "2023 年", // 必要的
