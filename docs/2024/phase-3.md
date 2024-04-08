@@ -1,6 +1,6 @@
 # 前端周刊：2024-3 期
 
-[![](../img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=Roques+de+Benet+rocks+Spain&form=hpcapt&filters=HpDate:%2220240307_0800%22)
+[![](../img/bing/20240408.jpeg?imageMogr2/thumbnail/960x)](https://www.bing.com/search?q=%E8%A5%BF%E6%AC%A7%E5%88%BA%E7%8C%AC)
 
 ## 前端开发
 
@@ -27,6 +27,14 @@
 - [CSS 框架排名](https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
 
 > 按 GitHub 星星数量排序前 40 个最受欢迎的 CSS 框架
+
+[CSS 的悬挂标点属性](https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)
+
+> 如果标点正好在行首或行尾，是否要跟上下文对齐？这就要用到 CSS 的`hanging-punctuation`属性。
+
+- [CommonJS 和 ES Module 终于要互相兼容了？？？](https://mp.weixin.qq.com/s/0_JtlCDOgF6Q_7dWDFtXAw)
+
+> 由于历史原因，很多既有代码和第三方库仍依赖于 CommonJS 模块系统，然而因为 ESM 的异步加载的设计，两个模块化方案一直是无法共存的，这也成了很多开发者的一大痛点。
 
 ## 行业周边
 
