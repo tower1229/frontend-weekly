@@ -1,6 +1,6 @@
 # 前端周刊：2024-2 期
 
-[![](/img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=Roques+de+Benet+rocks+Spain&form=hpcapt&filters=HpDate:%2220240307_0800%22)
+[![](/img/bing/20220809.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=Roques+de+Benet+rocks+Spain&form=hpcapt&filters=HpDate:%2220240307_0800%22)
 
 ## 前端开发
 

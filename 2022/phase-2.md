@@ -1,6 +1,6 @@
 # 前端周刊：2022-2 期
 
-[![](/img/bing/20220128.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=短耳猫头鹰)
+[![](/img/bing/20220128.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=短耳猫头鹰)
 
 ## 前端开发
 

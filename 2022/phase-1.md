@@ -1,6 +1,6 @@
 # 前端周刊：2022-1 期
 
-[![](/img/bing/20220106.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=冬日里的科赫尔湖)
+[![](/img/bing/20220106.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=冬日里的科赫尔湖)
 
 ## 前端开发
 

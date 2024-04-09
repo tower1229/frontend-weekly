@@ -1,6 +1,6 @@
 # 前端周刊：2020-3 期
 
-[![](/img/bing/20200326.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=大苏尔海岸线)
+[![](/img/bing/20200326.png?imageView2/2/w/960)](https://cn.bing.com/search?q=大苏尔海岸线)
 
 ## 前端开发
 

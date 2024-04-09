@@ -1,6 +1,6 @@
 # 前端周刊：2021-12 期
 
-[![](/img/bing/20210908.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=峡湾)
+[![](/img/bing/20210908.png?imageView2/2/w/960)](https://cn.bing.com/search?q=峡湾)
 
 ## 前端开发
 

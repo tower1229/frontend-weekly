@@ -1,6 +1,6 @@
 # 前端周刊：2020-1 期
 
-[![](/img/bing/20200304.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=潜水员)
+[![](/img/bing/20200304.png?imageView2/2/w/960)](https://cn.bing.com/search?q=潜水员)
 
 **经济增速放缓，更要认真学习，提升竞争力，可能有人会倒下，但不是你和我。**
 

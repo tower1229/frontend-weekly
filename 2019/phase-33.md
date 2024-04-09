@@ -1,6 +1,6 @@
 # 前端周刊：2019-33 期
 
-[![](/img/bing/20190826.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=玫瑰环鹦鹉)
+[![](/img/bing/20190826.png?imageView2/2/w/960)](https://cn.bing.com/search?q=玫瑰环鹦鹉)
 
 ## 前端开发
 

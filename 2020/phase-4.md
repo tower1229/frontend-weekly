@@ -1,6 +1,6 @@
 # 前端周刊：2020-4 期
 
-[![](/img/bing/20200406.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=姬路城)
+[![](/img/bing/20200406.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=姬路城)
 
 ## 前端开发
 

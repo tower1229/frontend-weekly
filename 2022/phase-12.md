@@ -1,6 +1,6 @@
 # 前端周刊：2022-12 期
 
-[![](/img/bing/20220718.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=青海岛)
+[![](/img/bing/20220718.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=青海岛)
 
 ## 前端开发
 

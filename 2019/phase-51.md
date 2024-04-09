@@ -1,6 +1,6 @@
 # 前端周刊：2019-51 期
 
-[![](/img/bing/20200102.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=漩涡)
+[![](/img/bing/20200102.png?imageView2/2/w/960)](https://cn.bing.com/search?q=漩涡)
 
 ## 前端开发
 

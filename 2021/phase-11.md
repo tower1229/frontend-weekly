@@ -1,6 +1,6 @@
 # 前端周刊：2021-11 期
 
-[![](/img/bing/20210823.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=小蓝鹭)
+[![](/img/bing/20210823.png?imageView2/2/w/960)](https://cn.bing.com/search?q=小蓝鹭)
 
 ## 前端开发
 

@@ -1,6 +1,6 @@
 # 前端周刊：2019-50 期
 
-[![](/img/bing/20191224.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=驯鹿)
+[![](/img/bing/20191224.png?imageView2/2/w/960)](https://cn.bing.com/search?q=驯鹿)
 
 ## 前端开发
 

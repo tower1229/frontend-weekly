@@ -1,6 +1,6 @@
 # 前端周刊：2020-11 期
 
-[![](/img/bing/20200612.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=圣埃伦娜峡谷)
+[![](/img/bing/20200612.png?imageView2/2/w/960)](https://cn.bing.com/search?q=圣埃伦娜峡谷)
 
 ## 前端开发
 

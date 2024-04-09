@@ -1,6 +1,6 @@
 # 前端周刊：2022-7 期
 
-[![](/img/bing/20220516.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=穴鸮)
+[![](/img/bing/20220516.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=穴鸮)
 
 ## 前端开发
 

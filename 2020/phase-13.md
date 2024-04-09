@@ -1,6 +1,6 @@
 # 前端周刊：2020-13 期
 
-[![](/img/bing/20200713.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=可可西里雨林)
+[![](/img/bing/20200713.png?imageView2/2/w/960)](https://cn.bing.com/search?q=可可西里雨林)
 
 ## 前端开发
 

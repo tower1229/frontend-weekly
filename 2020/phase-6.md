@@ -1,6 +1,6 @@
 # 前端周刊：2020-6 期
 
-[![](/img/bing/BingWallpaper-2020-04-18.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=春季瀑布)
+[![](/img/bing/BingWallpaper-2020-04-18.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=春季瀑布)
 
 ## 前端开发
 

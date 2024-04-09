@@ -1,6 +1,6 @@
 # 前端周刊：2021-9 期
 
-[![](/img/bing/20210721.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=朱砂湖)
+[![](/img/bing/20210721.png?imageView2/2/w/960)](https://cn.bing.com/search?q=朱砂湖)
 
 ## 前端开发
 

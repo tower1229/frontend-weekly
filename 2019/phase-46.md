@@ -1,6 +1,6 @@
 # 前端周刊：2019-46 期
 
-[![](/img/bing/20191128.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=Las+Catedrales海滩)
+[![](/img/bing/20191128.png?imageView2/2/w/960)](https://cn.bing.com/search?q=Las+Catedrales海滩)
 
 ## 前端开发
 

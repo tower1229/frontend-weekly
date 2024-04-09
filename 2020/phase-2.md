@@ -1,6 +1,6 @@
 # 前端周刊：2020-2 期
 
-[![](/img/bing/20200322.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=日出)
+[![](/img/bing/20200322.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=日出)
 
 ## 前端开发
 

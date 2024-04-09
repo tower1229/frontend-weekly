@@ -1,6 +1,6 @@
 # 前端周刊：2020-16 期
 
-[![](/img/bing/20200903.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=陆家嘴金融贸易区)
+[![](/img/bing/20200903.png?imageView2/2/w/960)](https://cn.bing.com/search?q=陆家嘴金融贸易区)
 
 ## 前端开发
 

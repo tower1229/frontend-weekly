@@ -1,6 +1,6 @@
 # 前端周刊：2019-52 期
 
-[![](/img/bing/20200113.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=十七孔桥)
+[![](/img/bing/20200113.png?imageView2/2/w/960)](https://cn.bing.com/search?q=十七孔桥)
 
 ## 前端开发
 

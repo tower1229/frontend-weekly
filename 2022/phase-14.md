@@ -1,6 +1,6 @@
 # 前端周刊：2022-14 期
 
-[![](/img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=洛斯马诺斯岩画)
+[![](/img/bing/20220809.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=洛斯马诺斯岩画)
 
 ## 前端开发
 

@@ -1,6 +1,6 @@
 # 前端周刊：2022-9 期
 
-[![](/img/bing/20220530.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=阿萨巴斯卡瀑布)
+[![](/img/bing/20220530.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=阿萨巴斯卡瀑布)
 
 ## 前端开发
 

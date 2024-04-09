@@ -1,6 +1,6 @@
 # 前端周刊：2022-10 期
 
-[![](/img/bing/20220606.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=靛蓝彩鹀)
+[![](/img/bing/20220606.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=靛蓝彩鹀)
 
 ## 前端开发
 

@@ -1,6 +1,6 @@
 # 前端周刊：2020-10 期
 
-[![](/img/bing/20200605.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=大烟山国家公园)
+[![](/img/bing/20200605.png?imageView2/2/w/960)](https://cn.bing.com/search?q=大烟山国家公园)
 
 ## 前端开发
 

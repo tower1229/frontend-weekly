@@ -1,6 +1,6 @@
 # 前端周刊：2022-11 期
 
-[![](/img/bing/20220622.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=亚苏尼国家公园)
+[![](/img/bing/20220622.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=亚苏尼国家公园)
 
 ## 前端开发
 

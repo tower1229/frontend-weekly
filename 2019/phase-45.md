@@ -1,6 +1,6 @@
 # 前端周刊：2019-45 期
 
-[![](/img/bing/20191124.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=atchafalaya+basin)
+[![](/img/bing/20191124.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=atchafalaya+basin)
 
 ## 前端开发
 

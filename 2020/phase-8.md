@@ -1,6 +1,6 @@
 # 前端周刊：2020-8 期
 
-[![](/img/bing/20200506.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=印加要塞)
+[![](/img/bing/20200506.png?imageView2/2/w/960)](https://cn.bing.com/search?q=印加要塞)
 
 ## 前端开发
 

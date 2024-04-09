@@ -1,6 +1,6 @@
 # 前端周刊：2019-44 期
 
-[![](/img/bing/20191119.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=锡安国家公园)
+[![](/img/bing/20191119.png?imageView2/2/w/960)](https://cn.bing.com/search?q=锡安国家公园)
 
 ## 前端开发
 

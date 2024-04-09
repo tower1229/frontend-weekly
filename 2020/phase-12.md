@@ -1,6 +1,6 @@
 # 前端周刊：2020-12 期
 
-[![](/img/bing/20200708.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=灰海豹)
+[![](/img/bing/20200708.png?imageView2/2/w/960)](https://cn.bing.com/search?q=灰海豹)
 
 ## 前端开发
 

@@ -1,6 +1,6 @@
 # 前端周刊：2021-13 期
 
-[![](/img/bing/20211023.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=红角鸮)
+[![](/img/bing/20211023.png?imageView2/2/w/960)](https://cn.bing.com/search?q=红角鸮)
 
 ## 前端开发
 

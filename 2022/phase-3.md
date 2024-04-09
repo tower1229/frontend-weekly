@@ -1,6 +1,6 @@
 # 前端周刊：2022-3 期
 
-[![](/img/bing/20220228.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=北极熊)
+[![](/img/bing/20220228.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=北极熊)
 
 ## 前端开发
 

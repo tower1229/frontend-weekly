@@ -1,6 +1,6 @@
 # 前端周刊：2019-48 期
 
-[![](/img/bing/20191213.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=贝尔尼纳快车)
+[![](/img/bing/20191213.png?imageView2/2/w/960)](https://cn.bing.com/search?q=贝尔尼纳快车)
 
 ## 前端开发
 

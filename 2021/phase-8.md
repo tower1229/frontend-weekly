@@ -1,6 +1,6 @@
 # 前端周刊：2021-8 期
 
-[![](/img/bing/20210713.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=大提顿国家公园)
+[![](/img/bing/20210713.png?imageView2/2/w/960)](https://cn.bing.com/search?q=大提顿国家公园)
 
 ## 前端开发
 

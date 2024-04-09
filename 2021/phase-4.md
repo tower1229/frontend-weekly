@@ -1,6 +1,6 @@
 # 前端周刊：2021-4 期
 
-[![](/img/bing/20210326.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=摇篮山-圣克莱尔湖国家公园)
+[![](/img/bing/20210326.png?imageView2/2/w/960)](https://cn.bing.com/search?q=摇篮山-圣克莱尔湖国家公园)
 
 ## 前端开发
 

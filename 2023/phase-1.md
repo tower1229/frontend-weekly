@@ -1,6 +1,6 @@
 # 前端周刊：2023-1 期
 
-[![](/img/bing/20230102.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=霍亨索伦城堡)
+[![](/img/bing/20230102.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=霍亨索伦城堡)
 
 ## 前端开发
 

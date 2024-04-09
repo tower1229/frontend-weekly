@@ -1,6 +1,6 @@
 # 前端周刊：2019-31 期
 
-[![](/img/bing/20190808.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/)
+[![](/img/bing/20190808.png?imageView2/2/w/960)](https://cn.bing.com/)
 
 ## 前端开发
 

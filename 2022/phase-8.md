@@ -1,6 +1,6 @@
 # 前端周刊：2022-8 期
 
-[![](/img/bing/20220524.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=科纳提国家公园)
+[![](/img/bing/20220524.jpg?imageView2/2/w/960)](https://cn.bing.com/search?q=科纳提国家公园)
 
 ## 前端开发
 

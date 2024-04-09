@@ -1,6 +1,6 @@
 # 前端周刊：2020-5 期
 
-[![](/img/bing/20200414.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=热带斑海豚)
+[![](/img/bing/20200414.png?imageView2/2/w/960)](https://cn.bing.com/search?q=热带斑海豚)
 
 ## 前端开发
 

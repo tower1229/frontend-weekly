@@ -1,6 +1,6 @@
 # 前端周刊：2021-14 期
 
-[![](/img/bing/20211122.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=伊吕波坂)
+[![](/img/bing/20211122.png?imageView2/2/w/960)](https://cn.bing.com/search?q=伊吕波坂)
 
 ## 前端开发
 

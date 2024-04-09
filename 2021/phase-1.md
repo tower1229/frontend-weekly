@@ -1,6 +1,6 @@
 # 前端周刊：2021-1 期
 
-[![](/img/bing/20201120.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=勃朗峰)
+[![](/img/bing/20201120.png?imageView2/2/w/960)](https://cn.bing.com/search?q=勃朗峰)
 
 ## 前端开发
 
