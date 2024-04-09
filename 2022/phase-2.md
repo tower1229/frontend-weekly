@@ -34,7 +34,7 @@
 
 - [Java 代码获取图片格式及颜色模型](https://blog.csdn.net/yangfengjueqi/article/details/79295662)
 
-> 通过图片转 16 进制后图片内容特征进行识别。附：[图片转 16 进制的前端实现](js将本地上传的图片转换成十六进制字符串数组)
+> 通过图片转 16 进制后图片内容特征进行识别。
 
 - [Blender+GoogleMaps+GIS 插件生成三维地形图](https://zhuanlan.zhihu.com/p/421156296)
 

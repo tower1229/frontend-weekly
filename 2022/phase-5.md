@@ -54,7 +54,7 @@
 
 > 【腾讯云】爆款 2 核 2G 云服务器首年 40 元，企业首购最高获赠 300 元京东卡
 
-- [2022 年 IAA 行业品类发展洞察系列报告·第一期]()https://trendinsight.oceanengine.com/arithmetic-report/detail/669?source=csj2
+- [2022 年 IAA 行业品类发展洞察系列报告·第一期](https://trendinsight.oceanengine.com/arithmetic-report/detail/669?source=csj2)
 
 > 报告通过行业规模、内容热度、商业变现的多维数据指标反映行业细分品类的发展情况，对领域季度运行情况、热门品类进行分析解读，助力开发者深入洞察领域特性和发展趋势，把握 IAA 生态机遇。
 
