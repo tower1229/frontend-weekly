@@ -1,13 +1,17 @@
 {
-  "name": "frontend-weekly-vuepress",
+  "name": "frontend-weekly-vitepress",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "vuepress": "^1.9.10"
+    "vitepress": "^1.0.2"
   }
 }
