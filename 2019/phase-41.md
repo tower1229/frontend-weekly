@@ -1,6 +1,6 @@
 # 前端周刊：2019-41 期
 
-[![](../img/bing/20191026.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=红垂蜜鸟)
+[![](/img/bing/20191026.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=红垂蜜鸟)
 
 ## 前端开发
 

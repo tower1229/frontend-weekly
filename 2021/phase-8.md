@@ -1,6 +1,6 @@
 # 前端周刊：2021-8 期
 
-[![](../img/bing/20210713.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=大提顿国家公园)
+[![](/img/bing/20210713.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=大提顿国家公园)
 
 ## 前端开发
 
@@ -66,4 +66,4 @@
 
 添加好友，备注“加群”
 
-![refned_x](../img/a/refined-x.jpg)
+![refned_x](/img/a/refined-x.jpg)

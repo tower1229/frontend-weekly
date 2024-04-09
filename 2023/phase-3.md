@@ -1,6 +1,6 @@
 # 前端周刊：2023-3 期
 
-[![](../img/bing/2023-4-18.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=royal+botanic+gardens+kew)
+[![](/img/bing/2023-4-18.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=royal+botanic+gardens+kew)
 
 ## 前端开发
 
@@ -68,7 +68,7 @@
 
 添加好友，备注“加群”
 
-![refned_x](../img/a/refined-x.jpg)
+![refned_x](/img/a/refined-x.jpg)
 
 ## 前端周刊
 

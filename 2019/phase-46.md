@@ -1,6 +1,6 @@
 # 前端周刊：2019-46 期
 
-[![](../img/bing/20191128.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=Las+Catedrales海滩)
+[![](/img/bing/20191128.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=Las+Catedrales海滩)
 
 ## 前端开发
 
@@ -85,7 +85,7 @@
 - [Google Doodle 庆祝感恩节的到来：用手掌画一只火鸡](https://www.google.com/)
 
 > 我替你们保存下来了
-> ![](../img/a/thanksgiving-2019-4655543279943680-law.gif)
+> ![](/img/a/thanksgiving-2019-4655543279943680-law.gif)
 
 - [Windows 10 20H1 分支敲定 Version 2004 有望明年 5 月发布](https://www.cnbeta.com/articles/tech/915599.htm)
 

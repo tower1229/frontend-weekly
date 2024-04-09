@@ -1,6 +1,6 @@
 # 前端周刊：2022-4 期
 
-[![](../img/bing/20220411.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=蕨菜)
+[![](/img/bing/20220411.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=蕨菜)
 
 ## 前端开发
 
@@ -50,7 +50,7 @@
 
 添加好友，备注“加群”
 
-![refned_x](../img/a/refined-x.jpg)
+![refned_x](/img/a/refined-x.jpg)
 
 ## 前端周刊
 

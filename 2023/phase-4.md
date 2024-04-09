@@ -1,6 +1,6 @@
 # 前端周刊：2023-4 期
 
-[![](../img/bing/20230811.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=%e7%88%b1%e4%b8%81%e5%a0%a1%e8%89%ba%e6%9c%af%e8%8a%82)
+[![](/img/bing/20230811.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=%e7%88%b1%e4%b8%81%e5%a0%a1%e8%89%ba%e6%9c%af%e8%8a%82)
 
 ## 前端开发
 
@@ -58,7 +58,7 @@
 
 添加好友，备注“加群”
 
-![refned_x](../img/a/refined-x.jpg)
+![refned_x](/img/a/refined-x.jpg)
 
 ## 前端周刊
 

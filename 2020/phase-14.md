@@ -1,6 +1,6 @@
 # 前端周刊：2020-14 期
 
-[![](../img/bing/20200804.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=白尾母鹿)
+[![](/img/bing/20200804.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=白尾母鹿)
 
 ## 前端开发
 
@@ -46,4 +46,4 @@
 
 添加好友，备注“加群”
 
-![refned_x](../img/a/refined-x.jpg)
+![refned_x](/img/a/refined-x.jpg)

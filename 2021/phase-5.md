@@ -1,6 +1,6 @@
 # 前端周刊：2021-5 期
 
-[![](../img/bing/20210528.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/)
+[![](/img/bing/20210528.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/)
 
 ## 前端开发
 
@@ -86,4 +86,4 @@
 
 添加好友，备注“加群”
 
-![refned_x](../img/a/refined-x.jpg)
+![refned_x](/img/a/refined-x.jpg)

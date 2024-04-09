@@ -1,6 +1,6 @@
 # 前端周刊：2019-42 期
 
-[![](../img/bing/20191104.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=代阿布洛峰州立公园)
+[![](/img/bing/20191104.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=代阿布洛峰州立公园)
 
 ## 前端开发
 

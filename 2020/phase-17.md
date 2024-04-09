@@ -1,6 +1,6 @@
 # 前端周刊：2020-17 期
 
-[![](../img/bing/20200903.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=陆家嘴金融贸易区)
+[![](/img/bing/20200903.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=陆家嘴金融贸易区)
 
 ## 前端开发
 
@@ -66,4 +66,4 @@
 
 添加好友，备注“加群”
 
-![refned_x](../img/a/refined-x.jpg)
+![refned_x](/img/a/refined-x.jpg)

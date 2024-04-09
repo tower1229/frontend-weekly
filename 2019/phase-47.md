@@ -1,6 +1,6 @@
 # 前端周刊：2019-47 期
 
-[![](../img/bing/20191204.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=犀牛)
+[![](/img/bing/20191204.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=犀牛)
 
 ## 前端开发
 

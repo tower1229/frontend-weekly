@@ -1,6 +1,6 @@
 # 前端周刊：2022-13 期
 
-[![](../img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=洛斯马诺斯岩画)
+[![](/img/bing/20220809.jpg?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=洛斯马诺斯岩画)
 
 ## 前端开发
 
@@ -56,7 +56,7 @@
 
 - [**最实用的 10 个写作技巧（墙）**](https://threadreaderapp.com/thread/1554667451203276801.html)
 
-> 我见过很多无力驾驭文字的人，本篇总结的写作技巧都是准确而行之有效的，希望提升文字表达能力的人一定不要错过。为防止链接失效，我还保存了一份[副本](../img/a/%E6%9C%80%E5%AE%9E%E7%94%A8%E7%9A%8410%E4%B8%AA%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7.pdf)以备不时之需。
+> 我见过很多无力驾驭文字的人，本篇总结的写作技巧都是准确而行之有效的，希望提升文字表达能力的人一定不要错过。为防止链接失效，我还保存了一份[副本](/img/a/%E6%9C%80%E5%AE%9E%E7%94%A8%E7%9A%8410%E4%B8%AA%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7.pdf)以备不时之需。
 
 - [**Neeva——搜索质量相当好的全新搜索引擎**](https://neeva.com/index)
 
@@ -66,7 +66,7 @@
 
 添加好友，备注“加群”
 
-![refned_x](../img/a/refined-x.jpg)
+![refned_x](/img/a/refined-x.jpg)
 
 ## 前端周刊
 

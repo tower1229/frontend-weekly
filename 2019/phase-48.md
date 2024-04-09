@@ -1,6 +1,6 @@
 # 前端周刊：2019-48 期
 
-[![](../img/bing/20191213.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=贝尔尼纳快车)
+[![](/img/bing/20191213.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=贝尔尼纳快车)
 
 ## 前端开发
 
@@ -40,7 +40,7 @@
 
 - [搬砖狗最值得买的【年货】，可能没有之一](https://refined-x.com/2019/12/16/2019-good-lesson/)
 
-> ![职场的真相](../img/a/zhichangdezhenxiang.jpg)
+> ![职场的真相](/img/a/zhichangdezhenxiang.jpg)
 
 - [【双 12】阿里云 2019 双 12 年末采购节](https://www.aliyun.com/1212/2019/home?userCode=y31qmczl)
 

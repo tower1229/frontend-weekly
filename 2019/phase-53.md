@@ -1,6 +1,6 @@
 # 前端周刊：2019-53 期
 
-[![](../img/bing/20200115.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=布达纳特塔)
+[![](/img/bing/20200115.png?imageMogr2/thumbnail/960x)](https://cn.bing.com/search?q=布达纳特塔)
 
 #### 站长下周放假，大家新年快乐:tada:
 
