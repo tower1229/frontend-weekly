@@ -637,4 +637,7 @@ export default defineConfig({
       provider: "local",
     },
   },
+  sitemap: {
+    hostname: "https://frontend-weekly.com",
+  },
 });
