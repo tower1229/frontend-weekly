@@ -640,4 +640,13 @@ export default defineConfig({
   sitemap: {
     hostname: "https://frontend-weekly.com",
   },
+  head: [
+    [
+      "script",
+      {
+        async: "",
+        src: "https://hm.baidu.com/hm.js?2de20984d875f33eca1256139bdead79",
+      },
+    ],
+  ],
 });
