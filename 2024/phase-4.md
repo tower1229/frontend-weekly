@@ -4,6 +4,22 @@
 
 ## 前端开发
 
+- [写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/1)
+
+> 效率提升？不一定
+
+- [JS 异步解决方案的发展历程以及优缺点](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/11)
+
+> RT
+
+- [【async/await】异常处理](https://juejin.cn/post/7177637080015568952)
+
+> 推荐：在 await 后面的请求函数添加 .catch(e => ())
+
+- [简单讲解一下 http2 的多路复用](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/14)
+
+> 二进制传输加多路复用
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
