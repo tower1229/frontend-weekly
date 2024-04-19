@@ -20,6 +20,10 @@
 
 > 二进制传输加多路复用
 
+- [介绍下 npm 模块安装机制](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/22)
+
+> 为什么输入 npm install 就可以自动安装对应的模块？
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
