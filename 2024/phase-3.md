@@ -24,7 +24,7 @@
 
 > TS 的 interface 和 type 的区别
 
-- [CSS 框架排名](https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
+- [CSS 框架排名](https://www.libhunt.com/css)
 
 > 按 GitHub 星星数量排序前 40 个最受欢迎的 CSS 框架
 
