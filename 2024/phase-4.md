@@ -24,6 +24,10 @@
 
 > 为什么输入 npm install 就可以自动安装对应的模块？
 
+- [页面级可视动画 View Transitions API 初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)
+
+> 本文介绍 View Transitions API，可以实现类似 Keynote 里面神奇移动这样的动画效果，也即是浏览器自动识别场景 1 和场景 2 的不同，并让这个不同产生动画效果，特别适合复杂的页面级别的场景切换动画。
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
