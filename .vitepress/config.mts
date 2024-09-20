@@ -23,10 +23,13 @@ export default defineConfig({
         text: "2024 年",
         items: [
           {
+            text: "2024/phase-4",
+            link: "2024/phase-4",
+          },
+          {
             text: "2024/phase-3",
             link: "2024/phase-3",
           },
-
           {
             text: "2024/phase-2",
             link: "2024/phase-2",

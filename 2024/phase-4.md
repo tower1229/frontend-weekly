@@ -1,6 +1,6 @@
 # 前端周刊：2024-4 期
 
-[![](/img/bing/20240408.jpeg?imageView2/2/w/960)](https://www.bing.com/search?q=%E8%A5%BF%E6%AC%A7%E5%88%BA%E7%8C%AC)
+[![](/img/bing/20240920.jpg?imageView2/2/w/960)](https://www.bing.com/search?q=%e5%a5%a5%e5%85%8b%e6%8b%89%e7%a7%91%e5%85%8b%e7%81%af%e5%a1%94&form=hpcapt&filters=HpDate:%2220240919_1600%22)
 
 ## 前端开发
 
@@ -27,6 +27,14 @@
 - [页面级可视动画 View Transitions API 初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)
 
 > 本文介绍 View Transitions API，可以实现类似 Keynote 里面神奇移动这样的动画效果，也即是浏览器自动识别场景 1 和场景 2 的不同，并让这个不同产生动画效果，特别适合复杂的页面级别的场景切换动画。
+
+- [phosphoricons 图标库](https://phosphoricons.com/)
+
+> 一个开源的图标库，支持 React、Vue、Svelte、Angular、Lit 等多种框架
+
+- [magicui 动效组件库](https://magicui.design/docs)
+
+> 一个 React 动效组件库
 
 ## 行业周边
 
