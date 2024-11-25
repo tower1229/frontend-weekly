@@ -4,6 +4,10 @@
 
 ## 前端开发
 
+- [2024 年前端报告](https://tsh.io/state-of-frontend/#teams-technology)
+
+> 2024 年前端报告
+
 - [如何设置打印 CSS](https://voussoir.net/writing/css_for_printing)
 
 > 打印纸张大小与页面边距的设置
@@ -15,6 +19,14 @@
 - [React 19 备忘单](https://www.epicreact.dev/react-19-cheatsheet)
 
 > React 19 备忘单
+
+- [date-fns](https://date-fns.org/)
+
+> 日期处理库
+
+- [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
+
+> 12 个现代 CSS 一行代码升级
 
 ## 行业周边
 
