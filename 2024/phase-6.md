@@ -1,8 +1,12 @@
 # 前端周刊：2024-6 期
 
-[![](/img/bing/20241126.jpeg?imageView2/2/w/960)](https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%a9%84%e6%a6%84%e6%a0%91%e6%97%a5&form=hpcapt&filters=HpDate:%2220241125_1600%22)
+[![](/img/bing/20250103.jpg?imageView2/2/w/960)](https://www.bing.com/search?q=%e3%82%aa%e3%83%83%e3%82%af%e3%82%b9%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89%e5%a4%a7%e5%ad%a6%e3%81%ae%e5%9b%b3%e6%9b%b8%e9%a4%a8&form=hpcapt&filters=HpDate:%2220250102_1500%22)
 
 ## 前端开发
+
+- [【工具自荐】精美 Github Card 生成器](https://github-card.refined-x.com/)
+
+> 生成精美的 Github 贡献数据卡片，支持 contribute 和 linktree 两种风格
 
 ## 行业周边
 
