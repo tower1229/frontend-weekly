@@ -8,6 +8,10 @@
 
 > 生成精美的 Github 贡献数据卡片，支持 contribute 和 linktree 两种风格
 
+- [Anime.js](https://animejs.com/documentation/)
+
+> Anime.js 是一个轻量、强大且易用的 JavaScript 动画引擎，适用于网页上的各种动画需求。它提供了一个统一的 API，可以用来控制 HTML、CSS、SVG、JavaScript 对象等的动画效果。网站动画丝滑，赶紧试试
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
