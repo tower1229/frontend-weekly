@@ -12,6 +12,10 @@
 
 > Anime.js 是一个轻量、强大且易用的 JavaScript 动画引擎，适用于网页上的各种动画需求。它提供了一个统一的 API，可以用来控制 HTML、CSS、SVG、JavaScript 对象等的动画效果。网站动画丝滑，赶紧试试
 
+- [Expo-ReactNative 开发框架](https://docs.expo.dev/router/introduction/)
+
+> Expo 框架让 ReactNative 开发门槛降到了前所未有的低，真正实现了前端开发者无缝介入的程度，尤其 ExpoRouter，将从 Web 的最佳文件系统路由概念带到通用应用程序中，非常好用。
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
