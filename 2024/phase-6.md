@@ -20,6 +20,14 @@
 
 > 设计师喜欢的网站构建器
 
+- (zustand)[https://zustand-demo.pmnd.rs/]
+
+> 一个小型、快速且可扩展的状态管理解决方案。
+
+- [primevue](https://primevue.org/introduction/)
+
+> 25 年最流行的 VUE UI 组件库。
+
 ## 行业周边
 
 - [【七牛云】新人免费试用](https://s.qiniu.com/vmUnIr)
