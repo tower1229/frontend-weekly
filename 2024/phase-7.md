@@ -4,9 +4,13 @@
 
 ## 前端开发
 
-- [AI 全流程驱动的 Chrome 扩展开发实录](https://refined-x.com/2025/04/29/New-Countdown-Timer%E2%80%94%E2%80%94AI%E5%85%A8%E6%B5%81%E7%A8%8B%E9%A9%B1%E5%8A%A8%E7%9A%84Chrome%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E5%AE%9E%E5%BD%95/)
+- [React Bits -- React 开源组件库](https://reactbits.dev/get-started/introduction)
 
-> 记录了作者借助 AI 开发 New Countdown Timer 插件的整个过程
+> React Bits is an open-source collection of carefully designed UI components
+
+- [Code editors and LLM setup](https://daisyui.com/docs/editor/)
+
+> DaisyUI 对 LLM 集成做了专门支持，在 AI 辅助编程成为主流的今天，UI 库的用户群体逐渐变成了 LLM
 
 ## 行业周边
 
