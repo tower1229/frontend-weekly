@@ -20,6 +20,15 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: "2026 年",
+        items: [
+          {
+            text: "2026/phase-1",
+            link: "2026/phase-1",
+          },
+        ],
+      },
+      {
         text: "2024 年",
         items: [
           {

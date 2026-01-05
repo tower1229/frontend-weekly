@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^1.0.2"
+    "vitepress": "^1.6.4"
   }
 }
