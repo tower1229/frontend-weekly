@@ -1,8 +1,12 @@
-# 前端周刊：2024-1 期
+# 前端周刊：2026-1 期
 
 [![](/img/bing/20260105.jpeg)](https://www.bing.com/search?q=%e9%ab%98%e8%a7%92%e7%be%9a&form=hpcapt&filters=HpDate:%2220260104_1600%22+mgzv3configlist:%22BingQA_Encyclopedia_Layout%22)
 
 ## 前端开发
+
+- [与 Gemini 3.1 Pro 的一次深度对谈——关于代码、避世与使命](https://refined-x.com/2026/02/26/%E4%B8%8EGemini_3.1_Pro%E7%9A%84%E4%B8%80%E6%AC%A1%E6%B7%B1%E5%BA%A6%E5%AF%B9%E8%B0%88/)
+
+> 本文完整记录了我与 Gemini 3.1 Pro 之间的一次对话，这次对话中的模型表现让我印象深刻
 
 - [GitPortrait - AI 驱动的 GitHub 开发者画像生成工具](https://refined-x.com/2026/01/04/GitPortrait%20-%20AI%20%E9%A9%B1%E5%8A%A8%E7%9A%84%20GitHub%20%E5%BC%80%E5%8F%91%E8%80%85%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/)
 
