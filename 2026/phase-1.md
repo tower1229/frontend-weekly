@@ -26,6 +26,10 @@
 
 > 【阿里云】新老同享
 
+- [一个美国音响爱好者做了一个实验，分别用专业音频铜线、香蕉和湿泥来传输音频](https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator)
+
+> HIFI 发烧友只会轻蔑一笑：哼，木耳~
+
 ## 加群交流
 
 添加好友，备注“加群”
