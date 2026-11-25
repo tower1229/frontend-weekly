@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "前端周刊",
   description: "前端周刊，给前端同学准备的每周1小时阅读清单",
+  srcExclude: ["AGENTS.md"],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -22,6 +23,10 @@ export default defineConfig({
       {
         text: "2026 年",
         items: [
+          {
+            text: "2026/phase-2",
+            link: "2026/phase-2",
+          },
           {
             text: "2026/phase-1",
             link: "2026/phase-1",
