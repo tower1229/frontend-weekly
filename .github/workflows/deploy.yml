@@ -37,14 +37,14 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: yarn # 或 pnpm / yarn
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
-        run: yarn install # 或 pnpm install / yarn install / bun install
+        run: corepack yarn install --frozen-lockfile
       - name: Build with VitePress
-        run: yarn run build # 或 pnpm docs:build / yarn docs:build / bun run docs:build
+        run: corepack yarn build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
